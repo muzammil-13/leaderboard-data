@@ -1,6 +1,219 @@
 {
-  "last_updated": "2025-03-01T07:35:32.000Z",
+  "last_updated": "2025-03-07T08:52:45.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11112",
+      "time": "2025-03-07T08:52:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11112",
+      "text": "Questionnaire | Validation added for Appointment & Medication Statement"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10969",
+      "time": "2025-03-06T08:27:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10969#issuecomment-2703143776",
+      "text": "> ![image](https://private-user-images.githubusercontent.com/57055998/419803759-a5dff327-0054-48fd-9a69-28b6b19a5059.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEyNDkyODYsIm5iZiI6MTc0MTI0ODk4NiwicGF0aCI6Ii81NzA1NTk5OC80MTk4MDM3NTktYTVkZmYzMjctMDA1NC00OGZkLTlhNjktMjhiNmIxOWE1MDU5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA2VDA4MTYyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1YjAzZmNhZmYwOTZhZWU0ZjAzYWFjYTJjMjM0MWY5NWRhMTBjMzRiZjU2NjEyYzAyYTYxOGFkNTk1MTQzN2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.b5haXz1KWH8jMlgx2VSXxSnOeKBNSXOkJfsbrqFg4PY)\r\n> \r\n> * [ ]  A user can access the parent location through breadcrumbs from a child location, even if they only have permission to view the child location.\r\n\r\n@nihal467 This is not a bug since the user will be able to see only the child locations they have access to even in the parent's view"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11018",
+      "time": "2025-03-06T06:37:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11018#issuecomment-2702941179",
+      "text": "@modamaan Can you change \"Expired on\" to \"Time of death\"? And wherever \"Expired\" badge is displayed to \"Deceased\"."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10969",
+      "time": "2025-03-06T06:13:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10969#issuecomment-2702908886",
+      "text": "> ![image](https://private-user-images.githubusercontent.com/57055998/419506374-c1ecfab0-ce0f-4c2e-8434-d7450cc83091.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEyNDAwMTgsIm5iZiI6MTc0MTIzOTcxOCwicGF0aCI6Ii81NzA1NTk5OC80MTk1MDYzNzQtYzFlY2ZhYjAtY2UwZi00YzJlLTg0MzQtZDc0NTBjYzgzMDkxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA2VDA1NDE1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4OTBlZTgzNGFmMDU2YmFlNDAwYmE1N2VjMDlhNzVmNTc3YjFkY2FmNTA5OWMwODRhMmRjMDg3MWNiMmZkMzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.09y3iVqyye9TSaIwlflqLocLXUcidXcipmV-m7GpuFo)\r\n> \r\n> 10bedicu (Root) → ICU 1 Room (Child) → Room 1 Bed (Inner Child) When a user is added only to the ICU 1 Room organization, the ICU 1 Room and its inner child, Room 1 Bed, are not visible to the user.\r\n> \r\n\r\n@nihal467 Fixed"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10905",
+      "time": "2025-03-05T09:29:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10905#issuecomment-2700351194",
+      "text": "FE done, waiting on BE fix cc @vigneshhari @nihal467 "
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#11034",
+      "time": "2025-03-05T08:13:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11034",
+      "text": "Staging Release",
+      "turnaround_time": 184
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11034",
+      "time": "2025-03-05T08:10:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11034",
+      "text": "Staging Release"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#11032",
+      "time": "2025-03-05T08:06:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11032",
+      "text": "SubQuestion | Pass in encounter Id",
+      "turnaround_time": 227
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11033",
+      "time": "2025-03-05T08:04:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11033",
+      "text": "SubQuestion | Pass in encounter Id"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11032",
+      "time": "2025-03-05T08:02:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11032",
+      "text": "SubQuestion | Pass in encounter Id"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10969",
+      "time": "2025-03-04T19:04:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10969#issuecomment-2698626019",
+      "text": "@nihal467 Ready for testing"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T10:54:56.000Z",
+      "title": "ohcnetwork/care_fe#10886",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10886#pullrequestreview-2656944731",
+      "text": "fix: Disable 'Save Valueset' button when there is no changes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T10:41:04.000Z",
+      "title": "ohcnetwork/care_fe#10997",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10997#pullrequestreview-2656905481",
+      "text": "Fix facilities card issue #10993"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-04T09:57:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2696889912",
+      "text": "@hrit2773 Let's not modify BE since dose_and_rate is an optional field in FHIR.\n@AdityaP700 Refer how validation is written in QuestionnaireForm.tsx,  you'll have to add custom validation for MedicationRequest type. Either fixed dosage or titrate/taper is required."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-04T07:13:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2696432267",
+      "text": "@hrit2773 Questionnaire submit since we're talking about validations"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-04T06:50:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2696386963",
+      "text": "@hrit2773 Please share the response json here"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-04T06:16:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2696332989",
+      "text": "@hrit2773 You just need to remove `None = None` for `dose_and_rate` right?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10987",
+      "time": "2025-03-04T05:53:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10987#issuecomment-2696297631",
+      "text": "> @nihal467 @rithviknishad @amjithtitus09\r\n> \r\n> * [ ]  In the questionnaire under \"Update Encounter,\" the content is getting clipped in normal review mode.\r\n>   > I couldn't understand the issue clearly. Could you share a screenshot? If it's the first one you shared in the issue, it is outdated issue then.\r\n> * [x]  When the dosage field is completely removed in a medicine request, `0` gets auto-filled, and users are unable to erase it.\r\n> * [ ]  When all symptoms, diagnoses, and allergies are removed, the message shows \"No recorded.\" Update it to \"No active available\" or provide an option to view removed items, even if none are currently active.\r\n>   > Please confirm the expected behavior, as this requires significant changes based on the final decision.\r\n> * [ ]  Display the recorded time in questionnaires in a human-readable format.\r\n>   > This seems to be caused by broken data. A similar issue was previously assigned to me but was closed as \"Not Planned\": [Issue #10661](https://github.com/ohcnetwork/care_fe/issues/10661).\r\n> * [x]  If the encounter class is changed to a non-hospitalization class, any existing hospitalization data should be cleared.\r\n\r\n@AdityaJ2305 Why not clear these doubts in the issue itself?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-04T04:57:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2696203389",
+      "text": "@hrit2773 Update?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#10969",
+      "time": "2025-03-03T13:35:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10969",
+      "text": "Encounter Locations view"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10743",
+      "time": "2025-03-03T09:53:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10743#issuecomment-2693822270",
+      "text": "@Sulochan-khadka Add space between name and badge. Reducing badge's padding if possible. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T09:43:37.000Z",
+      "title": "ohcnetwork/care_fe#10954",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10954#pullrequestreview-2653578806",
+      "text": "Cancel button navigation issue in edit questionaire."
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#10962",
+      "time": "2025-03-03T09:37:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10962",
+      "text": "Remove Questionnaire show usage",
+      "turnaround_time": 445
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#10962",
+      "time": "2025-03-03T09:30:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10962",
+      "text": "Remove Questionnaire show usage"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-03T08:36:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2693628701",
+      "text": "@hrit2773 Can you post a screenshot of what shows up in UI after the BE validation is added? It's to understand if an FE fix is required"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10743",
+      "time": "2025-03-03T08:03:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10743#issuecomment-2693560857",
+      "text": "@Sulochan-khadka Still want to pick it up? Expected behaviour has been modified"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10253",
+      "time": "2025-03-03T07:55:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10253#issuecomment-2693544998",
+      "text": "Go ahead @AdityaJ2305 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-03T07:47:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2693531913",
+      "text": "@hrit2773 BE\n@AdityaP700 FE"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10253",
+      "time": "2025-03-03T06:56:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10253#issuecomment-2693444838",
+      "text": "@ARH-MNAJS Do you still want to pick it up?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-03T06:53:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2693441370",
+      "text": "@nihal467 Valid issue.\n@hrit2773 Go ahead with the BE change.\n@AdityaP700 Would you like to work on this?"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#10882",
@@ -1448,8 +1661,31 @@
       "text": "Explicity mention Public Read ACL for Facility Image S3 Uploads"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11112",
+      "title": "Questionnaire | Validation added for Appointment & Medication Statement",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10969",
+      "title": "Encounter Locations view",
+      "stale_for": 0,
+      "labels": [
+        "changes required",
+        "merge conflict"
+      ]
+    }
+  ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care/issues/2817",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10447"
+    },
     {
       "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10480",
       "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10447"

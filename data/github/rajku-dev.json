@@ -1,6 +1,63 @@
 {
-  "last_updated": "2025-03-02T12:54:39.000Z",
+  "last_updated": "2025-03-06T14:23:44.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10961",
+      "time": "2025-03-06T14:23:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10961#issuecomment-2703998148",
+      "text": "@nihal467 can i take this up? "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10925",
+      "time": "2025-03-06T05:52:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10925",
+      "text": "User unable to scroll through all Locations when linking to a Device at once"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10904",
+      "time": "2025-03-06T05:34:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10904#issuecomment-2702859175",
+      "text": "made the change @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10872",
+      "time": "2025-03-05T07:06:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10872#issuecomment-2700051372",
+      "text": "> @rajku-dev do follow the merge checklist btw for PR's to be considered from now on;\n\n@rithviknishad I will push changes, just give me some time\nETA : Tomorrow 11:59 AM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#10950",
+      "time": "2025-03-04T12:27:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10950",
+      "text": "Add Support for Location Association History of Devices",
+      "turnaround_time": 115549
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10950",
+      "time": "2025-03-03T08:48:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10950#issuecomment-2693654113",
+      "text": "should we create tabs for overview, location history and encounter history, rather than buttons,\r\nuntil one of them is merged."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#10950",
+      "time": "2025-03-03T04:21:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10950",
+      "text": "Add Support for Location Association History of Devices"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10823",
+      "time": "2025-03-02T17:22:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10823#issuecomment-2692825582",
+      "text": "@rithviknishad I would like to work on this, since encounter history is done in my another PR opened\nETA : 4 March"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10774",
@@ -2891,105 +2948,6 @@
       "text": "can i take up Odia (od).\n"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10904",
-      "title": "Add support for associating devices to an encounter",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10872",
-      "title": "Add support for adding and removing managing organization for a device",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10774",
-      "title": "Cypress tests for File Uploads",
-      "stale_for": 0,
-      "labels": [
-        "question",
-        "merge conflict",
-        "needs-triage"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/leaderboard/pull/608",
-      "title": "Add support for `pullHistoricalGitHubActivites` to fetch discussions",
-      "stale_for": 44,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/leaderboard/pull/604",
-      "title": "Enable Calendar to Display Data from the Past Three Years",
-      "stale_for": 36,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/leaderboard/pull/602",
-      "title": "Add support for tracking commits pushed to branch (Forked)",
-      "stale_for": 36,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/leaderboard/pull/601",
-      "title": "Add support for tracking commits pushed to branch (core)",
-      "stale_for": 11,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10584",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10581"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10555",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10581"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10525",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10547"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10464",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10468"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10401",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10463"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10158",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10172"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10157",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10159"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10128",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10130"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10046",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10047"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9984",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10004"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/leaderboard/issues/606",
-      "pr_link": "https://github.com/ohcnetwork/leaderboard/pull/607"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9922",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9928"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

@@ -1,6 +1,160 @@
 {
-  "last_updated": "2025-03-01T18:26:27.000Z",
+  "last_updated": "2025-03-06T22:18:29.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10386",
+      "time": "2025-03-06T22:18:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10386#issuecomment-2705067678",
+      "text": "> [@hrit2773](https://github.com/hrit2773) unassigning you from the issue due to inactivity\n\nTest 1: Submission with Mandatory Fields Only\n1.  Navigate to the Form Page – Open the Community Nurse Homecare Questionnaire form.\n2. Fill Only Mandatory Fields – Enter data in required fields, leaving optional fields empty.\n3. Submit the Form – Click submit and verify API response using cy.intercept().\n4. Check Submission Behavior:\n\nIf any mandatory field is missing, ensure the form submission fails with an error message.\nIf all mandatory fields are filled, verify a successful submission.\n5. Verify Data Reflection – Check data appears correctly in the Encounter page.\n\nTest 2: Submission with All Fields\n1.  Navigate to the Form Page – Open the Community Nurse Homecare Questionnaire form.\n2. Fill All Fields – Enter data in both mandatory and optional fields.\n3. Submit the Form – Click submit and verify API response.\n4. Verify Data Reflection – Ensure all submitted data appears correctly across all sections, tabs, and charts in the Encounter page."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/docs#104",
+      "time": "2025-03-06T21:48:13.000Z",
+      "link": "https://github.com/ohcnetwork/docs/pull/104#issuecomment-2705017152",
+      "text": "@bodhish @khavinshankar @Jacobjeevan @vigneshhari @gigincg Sir plz review this CEP and lets move forward if we are ok to go."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11095",
+      "time": "2025-03-06T21:45:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11095#issuecomment-2705012051",
+      "text": "@bodhish @Jacobjeevan Can I work on this Issue ?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11095",
+      "time": "2025-03-06T21:42:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11095",
+      "text": "Bug :  Questionnaire is not getting submitted in the Safari Browser"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11050",
+      "time": "2025-03-06T21:37:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11050#issuecomment-2704998930",
+      "text": "@NOOB-3301 Dont change this this thing is fixed in PR #10144 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10144",
+      "time": "2025-03-06T21:23:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10144#issuecomment-2704973725",
+      "text": "@rithviknishad @nihal467 I was facing some issues in package-lock-json thats why its merged . Sorry for that ... plz review my code its all working now\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11093",
+      "time": "2025-03-06T21:06:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11093",
+      "text": "Fix/profile photo upload issues"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11092",
+      "time": "2025-03-06T20:26:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11092",
+      "text": "Fix/profile photo upload issues"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10388",
+      "time": "2025-03-06T20:08:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10388#issuecomment-2704834138",
+      "text": "@nihal467 Can you assign it to me as I have 0 issues assigned now I can get it done by Today."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10144",
+      "time": "2025-03-06T11:19:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10144#issuecomment-2703557445",
+      "text": "@nihal467 Testing teh process soon By tonight I will raise the PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8646",
+      "time": "2025-03-06T11:17:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8646#issuecomment-2703553690",
+      "text": "@bodhish @rithviknishad Can I start the work ? As It will take time so I can start after your confirmation\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11079",
+      "time": "2025-03-06T11:11:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11079#issuecomment-2703540283",
+      "text": "Hey @rithviknishad , I would like to work on this .\n- Creates dynamic links from a pathArray, displaying navigation hierarchy.\n- Updates breadcrumbs based on selectedOrganization and passes data dynamically.\n- Routing Properly\n\nETA - By Tommorow Night\nCurrently I have just one Assigned issue which is completed"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8646",
+      "time": "2025-03-05T08:05:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8646#issuecomment-2700155941",
+      "text": "> Hey @Rustix69,Can you share your Slack ID? We can discuss changes to the existing proposal, as I have some additional points I'd like to cover.\n\nOk I will share in the evening bcz I am in college now Twitter : Rustix Fx (rustix69)"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11025",
+      "time": "2025-03-05T07:45:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11025#issuecomment-2700116945",
+      "text": "@rithviknishad Can I work on this issue."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8646",
+      "time": "2025-03-05T06:48:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8646#issuecomment-2700023718",
+      "text": "@Jacobjeevan @bodhish Plz Review the CEP, Assign me if we are ok to go"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/docs#104",
+      "time": "2025-03-05T06:45:01.000Z",
+      "link": "https://github.com/ohcnetwork/docs/pull/104",
+      "text": "Cep/add patients tag"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8646",
+      "time": "2025-03-04T21:46:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8646#issuecomment-2699011928",
+      "text": "> We will only assign once you complete the CEP process\n\nI had completed the CEP plz review it and lets implement it if we are ok to move forward.\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11020",
+      "time": "2025-03-04T21:32:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11020",
+      "text": "Create 0011-tags-for-patients.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8646",
+      "time": "2025-03-04T11:04:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8646#issuecomment-2697112955",
+      "text": "@bodhish Can I work on this issue ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10679",
+      "time": "2025-03-04T07:49:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10679#issuecomment-2696521239",
+      "text": "@amjithtitus09 @DonXavierdev @Jacobjeevan If its not completed you can assign it to me .\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10386",
+      "time": "2025-03-04T07:40:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10386#issuecomment-2696497833",
+      "text": "@nihal467 @Jacobjeevan Can you assign me this issue as i have no active issues now, I will be raising this PR within a day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10482",
+      "time": "2025-03-04T07:39:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10482#issuecomment-2696496106",
+      "text": "@Jacobjeevan @nihal467 Can I work on this issue ?"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10924",

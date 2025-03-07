@@ -1,6 +1,132 @@
 {
-  "last_updated": "2025-03-02T13:16:09.000Z",
+  "last_updated": "2025-03-06T13:07:55.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11022",
+      "time": "2025-03-06T13:07:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11022#issuecomment-2703805026",
+      "text": "@nihal467 \r\n![Screenshot 2025-03-06 183511](https://github.com/user-attachments/assets/28e8704f-ba8e-49ad-968b-6865041159fc)\r\nI have changed the status to \"never\" for smaller and medium screens to make it correctly visible"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11022",
+      "time": "2025-03-06T10:41:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11022#issuecomment-2703468571",
+      "text": "@nihal467 ok I will make the changes accordingly "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11057",
+      "time": "2025-03-05T17:26:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11057#issuecomment-2701607225",
+      "text": "@Jacobjeevan Ok i will continue with that PR only"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11057",
+      "time": "2025-03-05T17:21:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11057#issuecomment-2701593999",
+      "text": "I have already opened the PR for #11009 . I will make the changes and will open another PR for the same issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11056",
+      "time": "2025-03-05T16:11:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11056",
+      "text": "Cards are not aligned in encounter section"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11057",
+      "time": "2025-03-05T16:09:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11057",
+      "text": "Doctor can create a template with a past date and set its validity to a past date."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11056",
+      "time": "2025-03-05T16:05:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11056",
+      "text": "Cards are not aligned in encounter section"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11044",
+      "time": "2025-03-05T11:40:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11044",
+      "text": ", Fixes Issue #11009:  Changes in the code to disable adding exceptions before date"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11008",
+      "time": "2025-03-05T02:52:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11008#issuecomment-2699633354",
+      "text": "@rithviknishad  Hey, I have opened a Pull request for this issue , Please check on it once\nThankyou"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11022",
+      "time": "2025-03-05T02:50:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11022",
+      "text": "Changes  to close the issue of Alignment of User Login Status  #11008"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11009",
+      "time": "2025-03-04T17:23:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11009#issuecomment-2698401212",
+      "text": "@rithviknishad  Ok , will try to solve this issue as soon as possible\nThankyou"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11009",
+      "time": "2025-03-04T17:17:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11009#issuecomment-2698386512",
+      "text": "@abhimanyurajeesh Yes sure"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11009",
+      "time": "2025-03-04T16:55:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11009",
+      "text": "Nurse Able to Add Exception Days for Past Dates"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11007",
+      "time": "2025-03-04T16:43:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11007#issuecomment-2698297682",
+      "text": "@Alok-2005  Hey, I am also a contributor actually and waiting for admin response."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11008",
+      "time": "2025-03-04T16:39:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11008",
+      "text": "Inconsistent Line Break in \"Never Logged In\" Status Label"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11007",
+      "time": "2025-03-04T16:20:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11007",
+      "text": "Sort Patient Names in Alphabetical Order"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10957",
+      "time": "2025-03-03T09:13:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10957#issuecomment-2693713537",
+      "text": "@siddheshThorat04  Please assign me this\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10955",
+      "time": "2025-03-03T08:58:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10955#issuecomment-2693678158",
+      "text": "@siddheshThorat04  Please assign me this task"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10470",

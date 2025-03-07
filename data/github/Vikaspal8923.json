@@ -1,6 +1,243 @@
 {
-  "last_updated": "2025-03-02T16:36:37.000Z",
+  "last_updated": "2025-03-07T07:30:07.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11104",
+      "time": "2025-03-07T07:30:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11104#issuecomment-2705728566",
+      "text": "@Jacobjeevan   changing in backend is also a good practice  but we  also  have one more option to    disable option to fill  past date  in frontend instead of backend. can i do  both  . tell me which option will be best .  i can work on both option"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11089",
+      "time": "2025-03-07T06:58:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11089#issuecomment-2705677677",
+      "text": "@Jacobjeevan  sir  tell me is this  is an valid issue or  mobile number can be same"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11104",
+      "time": "2025-03-07T06:52:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11104#issuecomment-2705670422",
+      "text": "@Jacobjeevan  @nihal467  @rithviknishad   if it is valid issue can i work on this."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11104",
+      "time": "2025-03-07T06:51:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11104",
+      "text": "BUG: Availibility schedule Template accepting previous dates  during creation of template"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11089",
+      "time": "2025-03-06T20:04:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11089#issuecomment-2704827826",
+      "text": "@Jacobjeevan   @rithviknishad  @nihal467  if it is a valid issue . can i work on this . i would like to work on it \n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11089",
+      "time": "2025-03-06T20:04:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11089",
+      "text": "FEAT:Validate Mobile Number Along with Email"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11083",
+      "time": "2025-03-06T18:44:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11083#issuecomment-2704666980",
+      "text": "@Jacobjeevan   Although  user dont have permission cannot able to  update . but it is good to hide button for thosa who dont have permission"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11079",
+      "time": "2025-03-06T12:21:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11079#issuecomment-2703694302",
+      "text": "approach:\n-  i will  implement a breadcrumb component similar to the one used in the Locations view.\n-  then update the organizations view to include breadcrumbs dynamically based on the selected organization or category.\n-   breadcrumbs follow the structure: Home > Organizations > [Selected Organization]\n-i will modify the UI to seamlessly integrate the breadcrumbs   by first analyzing the breadcrumbs of location view properly.\nETA -  2 days\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#10940",
+      "time": "2025-03-06T11:04:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10940",
+      "text": "feat:Add Resend OTP  button at the login page",
+      "turnaround_time": 325650
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#10940",
+      "time": "2025-03-06T11:04:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10940",
+      "text": "feat:Add Resend OTP  button at the login page",
+      "collaborated_with": [
+        "Vikaspal8923",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard-data#93",
+      "time": "2025-03-06T07:28:53.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/93",
+      "text": "add my data"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10992",
+      "time": "2025-03-06T07:05:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10992#issuecomment-2702991569",
+      "text": "@Jacobjeevan   I have fix the requested change and also resolve the merge conflict"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11056",
+      "time": "2025-03-05T16:08:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11056#issuecomment-2701400252",
+      "text": "@sj11105   i already raise a pr for this .  issue number #10992 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10819",
+      "time": "2025-03-05T16:01:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10819#issuecomment-2701381791",
+      "text": "@rithviknishad   is this issue resolved or not . Or anyone still working on it"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11046",
+      "time": "2025-03-05T12:11:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11046#issuecomment-2700754324",
+      "text": "@nihal467  @Jacobjeevan     I think  this has to  be resolve  so that patient cannot get conguse after book appointment  for first time.  can i work on this issue.\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11046",
+      "time": "2025-03-05T12:09:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11046",
+      "text": "BUG: new patient not appear on sidebar after book appointment"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11038",
+      "time": "2025-03-05T10:52:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11038#issuecomment-2700561896",
+      "text": "@ARH-MNAJS   . can you tell me how i can reproduce because when i click on the link provided in the issue it take me to login page first and if i login as staff with credentials(username-staffdev , password - Coronasafe@123) . it showing \"no active account with the given credentials\". can you help where i can see this issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11038",
+      "time": "2025-03-05T10:49:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11038#issuecomment-2700552352",
+      "text": "@nihal467    after  clicking on the link provided by you  i move to login page and when i login as staff with the provided accounts(username-staffdev , password - Coronasafe@123)  it showing  \"no active account with the given credentials\""
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11038",
+      "time": "2025-03-05T10:19:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11038#issuecomment-2700480994",
+      "text": "@nihal467  @Jacobjeevan  can i work on this issue.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10940",
+      "time": "2025-03-04T21:20:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10940#issuecomment-2698946759",
+      "text": "@Jacobjeevan   , i have completed all the requested changes . please take a look on latest commit and review the pr."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10992",
+      "time": "2025-03-04T19:46:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10992#issuecomment-2698742498",
+      "text": " @rithviknishad  @Jacobjeevan  i have  fix the changes requ\r\nested. take a look on this"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11016",
+      "time": "2025-03-04T19:26:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11016#issuecomment-2698692829",
+      "text": "@nihal467  @Jacobjeevan   i would like to work on this . can you assign this to me\n   ETA: 2days\n\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#10997",
+      "time": "2025-03-04T14:53:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10997",
+      "text": "Facilities public listing: adjust grid",
+      "turnaround_time": 28357
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#10997",
+      "time": "2025-03-04T07:00:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10997",
+      "text": "Fix facilities card issue #10993"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10993",
+      "time": "2025-03-04T06:47:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10993#issuecomment-2696382190",
+      "text": "@Jacobjeevan   ,  i  have attach the screenshot  of the facilities card after change .  review it  and tell me is it better now  .  should i create a pr with this changes ?\n                       \n            after change:\n                       \n![Image](https://github.com/user-attachments/assets/c5641090-4cf0-4739-9160-7d05e66c8e9c)\n\n             before change :       \n                                  \n![Image](https://github.com/user-attachments/assets/92814a58-a2f0-4bcc-88f5-f6518de8bf72)\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10993",
+      "time": "2025-03-03T22:18:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10993#issuecomment-2695695549",
+      "text": "@Jacobjeevan  @rithviknishad   sir  if it needed can i fix this ? please assign me."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#10993",
+      "time": "2025-03-03T22:17:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10993",
+      "text": "BUG: design improvement facility card in facilities page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10992",
+      "time": "2025-03-03T20:29:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10992#issuecomment-2695466481",
+      "text": "@Jacobjeevan   sir , i have fix the issue . please review pr and let me know if you need anything improvement or change in this  issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#10992",
+      "time": "2025-03-03T19:52:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10992",
+      "text": "fix:alignment issue for view details button in encounter list"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10971",
+      "time": "2025-03-03T14:29:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10971#issuecomment-2694584228",
+      "text": "@rithviknishad  @nihal467  sir , can you  assign this issue to me . "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#10971",
+      "time": "2025-03-03T14:27:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10971",
+      "text": "BUG: alingment issuse \"view details\" button , in incounter page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10940",
+      "time": "2025-03-03T10:10:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10940#issuecomment-2693867377",
+      "text": "@rithviknishad  sir , i have changes the issue .  is there anything that  i have to improve or change  in this issue. please let me know"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10941",
+      "time": "2025-03-02T19:59:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10941#issuecomment-2692881357",
+      "text": "@rithviknishad  ,sir can you assign this issue  to me . "
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#10940",
@@ -32,11 +269,28 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10940",
-      "title": "feat:Add Resend OTP  button at the login page",
-      "stale_for": 0,
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/93",
+      "title": "add my data",
+      "stale_for": 1,
       "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10992",
+      "title": "fix:alignment issue for view details button in encounter list",
+      "stale_for": 1,
+      "labels": [
+        "changes required"
+      ]
     }
   ],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10993",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10997"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10935",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10940"
+    }
+  ]
 }

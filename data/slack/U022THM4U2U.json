@@ -16696,6 +16696,624 @@
                         }
                     ]
                 }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-03-04 00:00:00": [
+        {
+            "user": "U022THM4U2U",
+            "type": "message",
+            "ts": "1741064593.843649",
+            "edited": {
+                "user": "U022THM4U2U",
+                "ts": "1741064629.000000"
+            },
+            "client_msg_id": "77e95de7-ccd4-4402-af17-55fecac44afe",
+            "text": "03/03/2025\nDone\n\u2022 Published the weekly update and Kerala Care launch post on LinkedIn.\n\u2022 Cleaned up 40+ issues labeled *\"need triage.\"*\n\u2022 Responded to all GSoC queries from OSS contributors.\n\u2022 Opened new Cypress issues for contributors to pick up.\n\u2022 Tested the permission PR (Priority) and shared feedback with <@U07NXCASM89> \n\u2022 Created a rough poster design for the Kerala Care launch SME Poster.\n\u2022 Cleaned up the project board.\n\u2022 Reviewed some open PRs.\nNext\n\u2022 Clean up the entire 30 PR marked for need testing\n\u2022 publish post on 7777 commit care_fe mark\n\u2022 Peacefully write some cypress test :sweat_smile:",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "D56Sp",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "03/03/2025\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Published the weekly update and Kerala Care launch post on LinkedIn."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Cleaned up 40+ issues labeled "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "\"need triage.\"",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Responded to all GSoC queries from OSS contributors."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened new Cypress issues for contributors to pick up."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tested the permission PR (Priority) and shared feedback with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U07NXCASM89"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created a rough poster design for the Kerala Care launch SME Poster."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Cleaned up the project board."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed some open PRs."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Clean up the entire 30 PR marked for need testing"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "publish post on 7777 commit care_fe mark"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Peacefully write some cypress test "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "sweat_smile",
+                                            "unicode": "1f605"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-05 00:00:00": [
+        {
+            "user": "U022THM4U2U",
+            "type": "message",
+            "ts": "1741155875.181369",
+            "client_msg_id": "7625630c-0481-4f20-8bd0-d61c6144790c",
+            "text": "04/03/2025\nDone\n\u2022 Added all the mentors to GSoC 2025 program\n\u2022 Designed and published a 7777 commits SME Poster\n\u2022 Tested all 30+ PR marked \"need testing\"\n\u2022 Opened new issues based on Figma designed shared by <@U07NP23BWQH> &amp; <@U07SXGJNKJA> \nNext\n\u2022 Freeze the upcoming release\n\u2022 Close cypress issues assigned to me",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "685ip",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "04/03/2025\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added all the mentors to GSoC 2025 program"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Designed and published a 7777 commits SME Poster"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tested all 30+ PR marked \"need testing\""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened new issues based on Figma designed shared by "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U07NP23BWQH"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " & "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U07SXGJNKJA"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Freeze the upcoming release"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Close cypress issues assigned to me"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-06 00:00:00": [
+        {
+            "user": "U022THM4U2U",
+            "type": "message",
+            "ts": "1741239917.467959",
+            "client_msg_id": "e6b5d52e-a3ae-400d-96e4-fa2e7fc789da",
+            "text": "05/03/2025\nDone\n\u2022 Pushed a PR to restructure the usage of cy.viewport\n\u2022 Experimented with AI tools for the OHC SME video.\n\u2022 Had a huddle with <@U06CY7RUZ9S> to address the production release issue.\n\u2022 Retested permission PR's\n\u2022 Responded to GSoC queries.\n\u2022 Made partial progress on the Cypress tests for devices.\n\u2022 Tested all PRs marked as \"need testing.\"\nNext\n\u2022 Test staging and clean up the board\n\u2022 Test all need testing marked PR's\n\u2022 Complete the devices cypress test",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ODP8F",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "05/03/2025\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Pushed a PR to restructure the usage of cy.viewport"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Experimented with AI tools for the OHC SME video."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a huddle with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U06CY7RUZ9S"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to address the production release issue."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Retested permission PR's"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Responded to GSoC queries."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made partial progress on the Cypress tests for devices."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tested all PRs marked as \"need testing.\""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Test staging and clean up the board"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Test all need testing marked PR's"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete the devices cypress test"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-03-07 00:00:00": [
+        {
+            "user": "U022THM4U2U",
+            "type": "message",
+            "ts": "1741323631.148019",
+            "edited": {
+                "user": "U022THM4U2U",
+                "ts": "1741323666.000000"
+            },
+            "client_msg_id": "0ce5eda0-c845-4493-bbaa-382222d50233",
+            "text": "06/03/2025\nDone\n\u2022 Once again cleaned most of the need triage issues :face_exhaling:\n\u2022 Fixed some UI issues in excalidraw PR's :face_with_cowboy_hat:\n\u2022 Tested all need testing labelled PR's :sunglasses:\n\u2022 Cleaned up the project board :face_with_spiral_eyes:\n\u2022 Started Testing current staging version :yawning_face:\nNext\n\u2022 Wrap up the current staging version testing\n\u2022 Complete the devices cypress test\n\u2022 Test all need testing marked PR's",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qiJMk",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "06/03/2025\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Once again cleaned most of the need triage issues "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "face_exhaling",
+                                            "unicode": "1f62e-200d-1f4a8"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed some UI issues in excalidraw PR's "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "face_with_cowboy_hat",
+                                            "unicode": "1f920"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tested all need testing labelled PR's "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "sunglasses",
+                                            "unicode": "1f60e"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Cleaned up the project board "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "face_with_spiral_eyes",
+                                            "unicode": "1f635-200d-1f4ab"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started Testing current staging version "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "yawning_face",
+                                            "unicode": "1f971"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wrap up the current staging version testing"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete the devices cypress test"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Test all need testing marked PR's"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
             ]
         }
     ]

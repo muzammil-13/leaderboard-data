@@ -1,6 +1,125 @@
 {
-  "last_updated": "2025-03-01T02:59:58.000Z",
+  "last_updated": "2025-03-07T08:39:17.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11109",
+      "time": "2025-03-07T08:39:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11109#issuecomment-2705851081",
+      "text": "@nihal467 , I’d like to work on this issue. Since I previously worked on the Medication Request table overflow issue, I’ve become familiar with this part of the codebase, especially how structured questions are rendered in the questionnaire.\nETA:1 day"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10996",
+      "time": "2025-03-06T16:33:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10996#issuecomment-2704354459",
+      "text": "@khavinshankar ,I've fixed it pls review\r\n![Screenshot 2025-03-06 220155](https://github.com/user-attachments/assets/7fc9125f-3ede-4b5c-b575-471f536fe7d3)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11055",
+      "time": "2025-03-06T03:04:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11055#issuecomment-2702671284",
+      "text": "@Jacobjeevan I've tested it, and the scroll issue is not coming from the common layout (App) for the Encounter page. As shown in the screenshots, the issue was due to space-x-6 on the tabs, which caused horizontal scrolling on smaller screens. After changing it to space-x-4, the issue was resolved.\nFor other pages, like the Questionnaire page, the horizontal scroll is caused by the table overflowing, which breaks the layout.\nGiven these findings, please reconsider checking the issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11064",
+      "time": "2025-03-05T18:23:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11064#issuecomment-2701735313",
+      "text": "@Jacobjeevan Pls assign me the issue, if its valid\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11064",
+      "time": "2025-03-05T18:23:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11064",
+      "text": "Misalignment of Three-Dot Menu in Symptoms Table on Mobile Version"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11043",
+      "time": "2025-03-05T15:19:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11043#issuecomment-2701248342",
+      "text": "#11055 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11043",
+      "time": "2025-03-05T15:13:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11043#issuecomment-2701229530",
+      "text": "@abhimanyurajeesh , I've already opened a issue for it I'll fix the remaining horizontal scroll issue. If u agree"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11055",
+      "time": "2025-03-05T14:47:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11055#issuecomment-2701157406",
+      "text": "@rithviknishad I've fixed the issue pls assign it to me,\n\n![Image](https://github.com/user-attachments/assets/45c82f98-bfcb-4796-8a6d-07dd7395683a)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11055",
+      "time": "2025-03-05T14:46:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11055",
+      "text": "Unwanted Horizontal Scroll on Encounter Page in Mobile View"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11025",
+      "time": "2025-03-05T07:31:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11025#issuecomment-2700092190",
+      "text": "@rithviknishad , can I be assigned to this issue?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11025",
+      "time": "2025-03-05T07:07:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11025#issuecomment-2700053317",
+      "text": "@abhimanyurajeesh , @Jacobjeevan \nI propose adding a default Markdown template to the facility description input. When a user opts to add or edit the facility description, the input field will be pre-populated with a template containing predefined headings (e.g., Overview, Features, Contact Information), formatting examples (e.g., for bold, italics, bullet lists), and placeholders to guide content structuring. The template will be editable so users can easily modify or remove parts as needed. Additionally, I plan to integrate a live preview mode using an existing Markdown library (such as marked.js) to show how the final description will be rendered. This approach should help improve consistency in facility descriptions while offering flexibility for both novice and advanced users.\n\nExpected Timeline:\n\nEnd Date: 2025-03-11\n\nI have prior experience integrating Markdown support in React applications.\nAlternatives considered include linking to an external Markdown guide or using a rich-text editor; however, a pre-populated template with live preview seems most aligned with our current UI/UX and is lightweight.\nThis solution should provide a straightforward and user-friendly way for users to format their facility descriptions effectively."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10996",
+      "time": "2025-03-04T13:56:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10996#issuecomment-2697696163",
+      "text": "@khavinshankar I've tested in my local, \r\n![Screenshot 2025-03-04 192428](https://github.com/user-attachments/assets/6e9ce2a8-1a9b-4cc4-a48a-0a464f69a4e6)\r\nand I don't see extra whitespace. Can you share u r screen resolution ?  Let me know if I might be missing something"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10898",
+      "time": "2025-03-04T13:43:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10898#issuecomment-2697631884",
+      "text": "@nihal467 sir, I've fixed the issue\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10996",
+      "time": "2025-03-04T05:40:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10996#issuecomment-2696274854",
+      "text": "@rithviknishad, Pls review the PR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#10996",
+      "time": "2025-03-04T05:39:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10996",
+      "text": "Fix: Make Medication Request table scrollable in Edit Prescription vi…"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10941",
+      "time": "2025-03-02T17:30:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10941#issuecomment-2692828317",
+      "text": "Can i get assigned to this issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#10941",
+      "time": "2025-03-02T17:29:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10941",
+      "text": "Medication Request Table Overflows Screen Width in Edit Prescription View (Desktop)"
+    },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care_fe#10898",
@@ -23,6 +142,25 @@
       "text": "@nihal467, can I be assigned to this issue?"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10996",
+      "title": "Fix: Make Medication Request table scrollable in Edit Prescription vi…",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "merge conflict",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10898",
+      "title": "Add Edit and See Details buttons for Location Sub-Groups (Close #10894)",
+      "stale_for": 1,
+      "labels": [
+        "changes required"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

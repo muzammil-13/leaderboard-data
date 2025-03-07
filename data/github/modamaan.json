@@ -1,6 +1,169 @@
 {
-  "last_updated": "2025-03-02T06:25:22.000Z",
+  "last_updated": "2025-03-06T18:47:36.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11018",
+      "time": "2025-03-06T18:47:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11018#issuecomment-2704672997",
+      "text": "![Screenshot 2025-03-07 001007](https://github.com/user-attachments/assets/9b43f0ed-859d-4012-a106-90b38b69977a)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11018",
+      "time": "2025-03-06T18:45:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11018#issuecomment-2704667956",
+      "text": "![Screenshot 2025-03-07 001001](https://github.com/user-attachments/assets/a2cd84dd-60ed-4715-b061-605ccbe8cef7)\r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#10681",
+      "time": "2025-03-06T11:05:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10681",
+      "text": "Refactor Tooltip Implementations to Use TooltipComponent for Consistent and Simplified Management also Add TooltipComponent to FacilityHomepage",
+      "turnaround_time": 1350027
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11063",
+      "time": "2025-03-05T17:51:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11063#issuecomment-2701662956",
+      "text": "@rithviknishad @Jacobjeevan if it is valid, i would like to take it up"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11063",
+      "time": "2025-03-05T17:49:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11063",
+      "text": "Close Button and Title Not Visible in Edit Avatar & Edit Cover Photo Dialogs on Mobile"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11055",
+      "time": "2025-03-05T15:05:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11055#issuecomment-2701206638",
+      "text": "#11043 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11043",
+      "time": "2025-03-05T15:02:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11043#issuecomment-2701198278",
+      "text": "1. https://github.com/user-attachments/assets/57ca9a6f-a135-485b-94ba-17f00bcceb11\n\n\nhttps://github.com/user-attachments/assets/a919a763-cc2b-43ab-af7c-358a7c1fddb9\n\nhttps://github.com/user-attachments/assets/f1e3d629-eef1-4525-b105-640d8bc0d953\n\nhttps://github.com/user-attachments/assets/88bb5a2b-b5b4-4643-9983-1e4506a099ab\n\n\nUnwanted Horizontal Scroll fix here aswell"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10681",
+      "time": "2025-03-05T14:15:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10681#issuecomment-2701072743",
+      "text": "@khavinshankar merge conflict removed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11018",
+      "time": "2025-03-04T19:18:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11018",
+      "text": "Enhance Expired On Label Styling on Encounter and Patient details Page for Better Visibility"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10681",
+      "time": "2025-03-04T18:34:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10681#issuecomment-2698555592",
+      "text": "@Jacobjeevan  desc updated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#10546",
+      "time": "2025-03-04T11:55:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10546",
+      "text": "Fix Button Overflow and Minor Responsive Issues on Mobile View",
+      "turnaround_time": 1888881
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10681",
+      "time": "2025-03-04T10:58:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10681#issuecomment-2697087351",
+      "text": "@Jacobjeevan which desc 🤔"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10990",
+      "time": "2025-03-03T19:30:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10990#issuecomment-2695352171",
+      "text": "@Jacobjeevan @rithviknishad  i would like work on this"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#10990",
+      "time": "2025-03-03T19:29:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10990",
+      "text": "Improve \"Expired On\" Label Design on Encounter page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10986",
+      "time": "2025-03-03T18:31:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10986#issuecomment-2695229144",
+      "text": "@Jacobjeevan @rithviknishad i would like to take it up"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#10986",
+      "time": "2025-03-03T18:30:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10986",
+      "text": "Confirmation Required: Marking Patient as Deceased"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10979",
+      "time": "2025-03-03T15:34:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10979#issuecomment-2694786241",
+      "text": "@rithviknishad @Jacobjeevan i would like to work on this"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#10979",
+      "time": "2025-03-03T15:33:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10979",
+      "text": "Auto-Switch Focus Between Date of Birth Fields (Day → Month → Year)"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10977",
+      "time": "2025-03-03T15:20:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10977#issuecomment-2694746486",
+      "text": "@Jacobjeevan  can you assign to me"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#10977",
+      "time": "2025-03-03T15:19:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10977",
+      "text": "User Card Layout Issue – Improper Text Overflow"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10975",
+      "time": "2025-03-03T14:48:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10975#issuecomment-2694650420",
+      "text": "@Jacobjeevan can you assign to me, i have updated "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#10975",
+      "time": "2025-03-03T14:47:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10975",
+      "text": "Request Details Page Has Improper Width Layout on UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10971",
+      "time": "2025-03-03T14:29:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10971#issuecomment-2694584178",
+      "text": "@Jacobjeevan  i would like to work on it\n"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10926",

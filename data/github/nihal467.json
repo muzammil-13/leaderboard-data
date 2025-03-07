@@ -1,6 +1,889 @@
 {
-  "last_updated": "2025-03-01T13:22:49.000Z",
+  "last_updated": "2025-03-07T08:29:12.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11110",
+      "time": "2025-03-07T08:29:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11110",
+      "text": "Improve the UX in questionnaire overall"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11109",
+      "time": "2025-03-07T08:19:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11109",
+      "text": "Replace Medication Between Field in Medication Request with Medication From and Medication To two separate Date Field in the medication statement structured question"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11102",
+      "time": "2025-03-07T06:36:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11102",
+      "text": "Show the current booking for a"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#11098",
+      "time": "2025-03-07T06:04:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11098",
+      "text": "Default to nurse user type in the create user form",
+      "turnaround_time": 851
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11099",
+      "time": "2025-03-07T06:04:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11099",
+      "text": "Replace React Date Picker with the device's default date picker."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11098",
+      "time": "2025-03-07T05:50:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11098",
+      "text": "Default to nurse user type in the create user form"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11086",
+      "time": "2025-03-07T05:17:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11086#issuecomment-2705551398",
+      "text": "@MAT1018 feel free to push the PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11086",
+      "time": "2025-03-06T18:30:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11086#issuecomment-2704637410",
+      "text": "@MAT1018 try installing the latest version, do let us know whether the issue still exist"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11012",
+      "time": "2025-03-06T12:03:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11012#issuecomment-2703654865",
+      "text": "@Jacobjeevan can you comment on this"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11017",
+      "time": "2025-03-06T11:59:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11017#issuecomment-2703646148",
+      "text": "@khavinshankar can you evaluate the issue and assign it to someone"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10980",
+      "time": "2025-03-06T11:57:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10980#issuecomment-2703641459",
+      "text": "@MethodManav We want to maintain a 1:1 ratio for consistency when displaying profile pictures in multiple places and don't see the relevance of vertical scrolling for that modal at this time, so we are closing this issue."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10980",
+      "time": "2025-03-06T11:57:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10980",
+      "text": "Scrolling Stops When Large Image is Uploaded"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10958",
+      "time": "2025-03-06T11:51:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10958",
+      "text": "Irrelevant padding in patient details under file tab."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10958",
+      "time": "2025-03-06T11:51:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10958#issuecomment-2703629458",
+      "text": "already fix the issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10980",
+      "time": "2025-03-06T11:50:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10980#issuecomment-2703627647",
+      "text": "@MethodManav already @rithviknishad working on a PR to show proper error message, can you comment on the relevance of this issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10959",
+      "time": "2025-03-06T11:46:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10959#issuecomment-2703619502",
+      "text": "@prynsh the search is getting fixed on another PR, meanwhile focus on rest of the test"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#11080",
+      "time": "2025-03-06T11:41:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11080",
+      "text": "Staging Release v3.0.4",
+      "turnaround_time": 778
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11080",
+      "time": "2025-03-06T11:28:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11080",
+      "text": "Merge Develop To Staging"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11040",
+      "time": "2025-03-06T11:08:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11040",
+      "text": "Missing dependencies"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11054",
+      "time": "2025-03-06T11:08:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11054#issuecomment-2703532493",
+      "text": "@MAT1018 \r\n\r\n- for now, you can uninstall cypress package and reinstall it, it should fix the issue for now\r\n- the cypress type is not needed since we are already using 14+ version"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11073",
+      "time": "2025-03-06T09:46:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11073#issuecomment-2703331074",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11071",
+      "time": "2025-03-06T09:34:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11071#issuecomment-2703302316",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11022",
+      "time": "2025-03-06T09:12:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11022#issuecomment-2703246120",
+      "text": "![image](https://github.com/user-attachments/assets/fc0b9914-5cd7-457c-aadd-6472f8507bc9)\r\n\r\nits breaking of medium screens"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10969",
+      "time": "2025-03-06T09:00:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10969#issuecomment-2703216329",
+      "text": "LGTM, earlier issue was due to access role privilege given the test user"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10838",
+      "time": "2025-03-06T08:28:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10838#issuecomment-2703146844",
+      "text": "![image](https://github.com/user-attachments/assets/c62dddef-6e02-493b-a384-acd6064c770e)\r\n\r\n@hrit2773 the translation are missing add them"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11066",
+      "time": "2025-03-06T08:26:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11066#issuecomment-2703140968",
+      "text": "@Spandan-Mishra can you look into code rabbit comments"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11041",
+      "time": "2025-03-06T08:24:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11041#issuecomment-2703138295",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10940",
+      "time": "2025-03-06T08:16:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10940#issuecomment-2703122516",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10821",
+      "time": "2025-03-06T07:49:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10821#issuecomment-2703067920",
+      "text": "Issue need to taken as a separate PR\r\n\r\n![image](https://github.com/user-attachments/assets/4e1a5e51-2a23-4801-94f3-65c08156136a)\r\n\r\n- [ ] preserve the current map view after a status update of a location"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10969",
+      "time": "2025-03-06T07:41:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10969#issuecomment-2703054093",
+      "text": "![image](https://github.com/user-attachments/assets/a5dff327-0054-48fd-9a69-28b6b19a5059)\r\n\r\n- [ ] A user can access the parent location through breadcrumbs from a child location, even if they only have permission to view the child location."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10680",
+      "time": "2025-03-06T07:32:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10680#issuecomment-2703037238",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10680",
+      "time": "2025-03-06T07:31:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10680#issuecomment-2703035994",
+      "text": "![image](https://github.com/user-attachments/assets/c10729d9-65f1-4a22-ba87-12b60579d8a8)\r\n\r\n- [ ] once the drawing is updated, the drawing preview only showing the updated view upon hard refresh (this can be taken as a separate PR)"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10680",
+      "time": "2025-03-06T06:50:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10680#issuecomment-2702968379",
+      "text": "> ![image](https://private-user-images.githubusercontent.com/57055998/419784322-b256cd78-fd09-4aa6-a28e-89da28ad8d58.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEyNDM4MDQsIm5iZiI6MTc0MTI0MzUwNCwicGF0aCI6Ii81NzA1NTk5OC80MTk3ODQzMjItYjI1NmNkNzgtZmQwOS00YWE2LWEyOGUtODlkYTI4YWQ4ZDU4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA2VDA2NDUwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA3NmU1ZTdkMmJlM2I0MWM4ODJiOWM4MTQ4OWEyOGM0NmViNTY0MjhlNjNjMTNmMjcxNTI2MjkwZTNmYjcwYzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.I4u2g3G-J4Qup490Kbo3aIuGkdZo7Yv-HbdsP8mwmPw)\r\n> \r\n> @rithviknishad the excalidraw upload is not working,the upsert API is throwing 400 mentioning that the object cannot be viewed, check the screenshot\r\n\r\nseem like a cache issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10680",
+      "time": "2025-03-06T06:41:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10680#issuecomment-2702946812",
+      "text": "\r\n![image](https://github.com/user-attachments/assets/b256cd78-fd09-4aa6-a28e-89da28ad8d58)\r\n\r\n\r\n@rithviknishad the excalidraw upload is not working,the upsert API is throwing 400 mentioning that the object cannot be viewed, check the screenshot"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10253",
+      "time": "2025-03-06T06:16:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10253#issuecomment-2702912534",
+      "text": "I have modified the issue. Once the changes are made and ready for review, please tag me."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10253",
+      "time": "2025-03-06T06:04:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10253#issuecomment-2702896365",
+      "text": "@AdityaJ2305 i have reassigned you the issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10253",
+      "time": "2025-03-06T05:58:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10253#issuecomment-2702888743",
+      "text": "@AdityaJ2305 the issue has been revisited and updated the description. you can work on them now"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10947",
+      "time": "2025-03-06T05:48:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10947#issuecomment-2702876012",
+      "text": "not occuring to me, seem like a browser / device specific issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10947",
+      "time": "2025-03-06T05:48:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10947",
+      "text": "Duplicate Eye Icon Appears in Password Field on First Input"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11042",
+      "time": "2025-03-05T17:10:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11042#issuecomment-2701567396",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10981",
+      "time": "2025-03-05T16:59:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10981#issuecomment-2701538833",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10978",
+      "time": "2025-03-05T15:32:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10978#issuecomment-2701293878",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10900",
+      "time": "2025-03-05T15:30:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10900#issuecomment-2701285432",
+      "text": "![image](https://github.com/user-attachments/assets/1667903a-4701-4667-bcf3-eb302b5e5b38)\r\n\r\n- [ ] keep this one the top right corner, to keep it consistent with our toaster position"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10988",
+      "time": "2025-03-05T15:15:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10988#issuecomment-2701236944",
+      "text": "![image](https://github.com/user-attachments/assets/14bf5c96-e5a0-42a6-bb19-87d163cea935)\r\n\r\n- [ ] add preview of the submitted data, otherwise users wont be able to view them post submission"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11037",
+      "time": "2025-03-05T15:07:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11037#issuecomment-2701212562",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10969",
+      "time": "2025-03-05T15:01:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10969#issuecomment-2701196281",
+      "text": "![image](https://github.com/user-attachments/assets/c1ecfab0-ce0f-4c2e-8434-d7450cc83091)\r\n\r\n10bedicu (Root) → ICU 1 Room (Child) → Room 1 Bed (Inner Child) When a user is added only to the ICU 1 Room organization, the ICU 1 Room and its inner child, Room 1 Bed, are not visible to the user.\r\n\r\nNote: When a user is added to the 10bedicu root location, they have proper access and can view all associated child locations, including ICU 1 Room and Room 1 Bed."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10969",
+      "time": "2025-03-05T14:49:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10969#issuecomment-2701163666",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10969",
+      "time": "2025-03-05T14:43:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10969#issuecomment-2701146289",
+      "text": "![image](https://github.com/user-attachments/assets/68ef46bf-e5ec-46c2-856d-420d6267fa6e)\r\n\r\n- [ ] sort the bed to show available of the top always (Enhancement)"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10680",
+      "time": "2025-03-05T14:15:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10680#issuecomment-2701071094",
+      "text": "![image](https://github.com/user-attachments/assets/2b15529c-0ff8-43f6-b1b2-67829f4b2551)\r\n\r\n- [ ] in the view drawing page, grey out the file name and replace save button name with go back or cancel\r\n- [ ] Add translation for successfully notification"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11038",
+      "time": "2025-03-05T11:38:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11038#issuecomment-2700682923",
+      "text": "@ARH-MNAJS @NOOB-3301 @oathar @ashwinpraveengo steps to replicate have been modified, try once again to replicate the bug"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10526",
+      "time": "2025-03-05T11:28:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10526#issuecomment-2700649698",
+      "text": "Conditionally approving this due to priority nature. \r\n\r\n@Jacobjeevan \r\n\r\n1. Open up additional follow-up issues for necessary changes required based on the above comments (Since they are product calls)\r\n2. Revert the frontend changes that allowed Admin and Facility Admin users to access the Create Questionnaire page, as they are not permitted to create questionnaires."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10526",
+      "time": "2025-03-05T10:19:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10526#issuecomment-2700479410",
+      "text": "![image](https://github.com/user-attachments/assets/fddb1eac-2128-46a0-881e-4b054f634444)\r\n\r\n- [ ] Doctors with the admin role in the Kerala organization can create questionnaires. However, they can only grant access to these questionnaires for their own user type, not for other user types. "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11038",
+      "time": "2025-03-05T09:52:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11038",
+      "text": "Mobile Responsive issue : Encounter Page on Staging"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11036",
+      "time": "2025-03-05T09:32:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11036",
+      "text": "New cypress test for facility location"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#11031",
+      "time": "2025-03-05T09:09:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11031",
+      "text": "Restructured the cy.viewport usage to more reusable way",
+      "turnaround_time": 5878
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11031",
+      "time": "2025-03-05T07:31:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11031",
+      "text": "Restructured the viewport usage to more reusable way"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10988",
+      "time": "2025-03-05T06:35:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10988#issuecomment-2700005939",
+      "text": "![image](https://github.com/user-attachments/assets/f8dfedb5-00f7-4fa7-82cc-be222a40b37d)\r\n![image](https://github.com/user-attachments/assets/f79c6efa-662b-4ec2-aca4-82de91965827)\r\n\r\n- [ ] Hide the \"Patient Type Questionnaire\" within the \"Questionnaire\" dropdown inside an encounter.\r\n\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11016",
+      "time": "2025-03-04T19:14:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11016",
+      "text": "Redesign the users organisation dashboard based on new figma design"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11015",
+      "time": "2025-03-04T19:10:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11015",
+      "text": "Redesign the Public Page as per the new Figma design"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11013",
+      "time": "2025-03-04T19:00:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11013",
+      "text": "Design the Overview UI for Facility"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10969",
+      "time": "2025-03-04T18:46:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10969#issuecomment-2698580403",
+      "text": "@amjithtitus09 is it ready for testing, iam seeing a lot of commit after the labelling"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10953",
+      "time": "2025-03-04T18:43:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10953#issuecomment-2698573064",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10808",
+      "time": "2025-03-04T18:21:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10808#issuecomment-2698530805",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T18:14:36.000Z",
+      "title": "ohcnetwork/care_fe#10740",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10740#pullrequestreview-2658518189",
+      "text": "Cypress: Patient Prescription Management"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#11005",
+      "time": "2025-03-04T14:46:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11005",
+      "text": "Add missing translation for location history",
+      "turnaround_time": 507
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#11005",
+      "time": "2025-03-04T14:46:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11005",
+      "text": "Add missing translation for location history",
+      "collaborated_with": [
+        "nihal467",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11005",
+      "time": "2025-03-04T14:38:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11005",
+      "text": "Add missing translation for location history"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10736",
+      "time": "2025-03-04T11:57:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10736#issuecomment-2697302152",
+      "text": "@Mahendar0701 fix the cypress failure"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10898",
+      "time": "2025-03-04T11:46:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10898#issuecomment-2697261280",
+      "text": "![image](https://github.com/user-attachments/assets/1a964643-5427-4445-8e39-f3c47d1f21f9)\r\n\r\n- [ ] When we edit a sub-location, the expanded view collapses. This should not happen—it is expected that the expanded view remains open, allowing users to see the updated details."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10830",
+      "time": "2025-03-04T11:38:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10830#issuecomment-2697239559",
+      "text": "![image](https://github.com/user-attachments/assets/1638a760-1f70-48f4-8e67-1c8d59a36620)\r\n\r\n- [ ] After zooming in, I’m unable to drag and navigate through the file. This makes it difficult for users who need to read certain alphabetic reports once they’ve zoomed."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10899",
+      "time": "2025-03-04T11:11:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10899#issuecomment-2697144494",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10777",
+      "time": "2025-03-04T11:08:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10777#issuecomment-2697129343",
+      "text": "![image](https://github.com/user-attachments/assets/155e8f37-b1aa-4ea3-a126-c839dd5881a3)\r\n\r\n- [ ] When searching for something on the Encounter page and pressing the back button, the entered text gets erased one character at a time, which is unusual. Instead, pressing the back button should take the user to the previously accessed page."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10714",
+      "time": "2025-03-04T10:39:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10714#issuecomment-2697030941",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10841",
+      "time": "2025-03-04T10:35:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10841#issuecomment-2697009421",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10841",
+      "time": "2025-03-04T10:33:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10841#issuecomment-2697002967",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10927",
+      "time": "2025-03-04T10:28:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10927#issuecomment-2696984172",
+      "text": "![image](https://github.com/user-attachments/assets/f2d3f3ae-7caa-4d32-b5e8-d634235a3e2b)\r\n\r\n- [ ] The list is not being filtered; it is showing all the sub-locations without filtering.\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10815",
+      "time": "2025-03-04T10:21:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10815#issuecomment-2696964019",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10773",
+      "time": "2025-03-04T10:12:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10773#issuecomment-2696938713",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10712",
+      "time": "2025-03-04T10:09:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10712#issuecomment-2696931326",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10891",
+      "time": "2025-03-04T10:02:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10891#issuecomment-2696909001",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10681",
+      "time": "2025-03-04T09:40:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10681#issuecomment-2696834176",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10939",
+      "time": "2025-03-04T09:36:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10939#issuecomment-2696824107",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10886",
+      "time": "2025-03-04T09:32:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10886#issuecomment-2696812709",
+      "text": "LGTM @Tanuj1718 can you clear the megge conflict"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10943",
+      "time": "2025-03-04T07:13:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10943#issuecomment-2696432603",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10680",
+      "time": "2025-03-04T06:22:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10680#issuecomment-2696341994",
+      "text": "![image](https://github.com/user-attachments/assets/6798e21d-2b46-463b-8eaa-42234814fac0)\r\n\r\n- [ ] when there is no drawing available its throwing 404 \"Not Found\" error in the frontend"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10571",
+      "time": "2025-03-04T05:48:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10571#issuecomment-2696290326",
+      "text": "![image](https://github.com/user-attachments/assets/36b1cd0a-78e3-4a62-97bd-72e502acd3f8)\r\n\r\n- [ ] As shown in the screenshot, locations that are active have an \"Unavailable\" badge. The delete button for these locations should remain hidden until they are marked as \"Available."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10546",
+      "time": "2025-03-04T05:44:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10546#issuecomment-2696283902",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10509",
+      "time": "2025-03-04T05:25:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10509#issuecomment-2696250016",
+      "text": "slack.ohc.network check this now"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10553",
+      "time": "2025-03-04T05:08:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10553#issuecomment-2696218638",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10881",
+      "time": "2025-03-04T04:54:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10881#issuecomment-2696197522",
+      "text": "![image](https://github.com/user-attachments/assets/cbcdbc05-7e76-4a4f-a541-1921b8a221e4)\r\n\r\n- [ ] Add pagination to the query parameters so that when a user clicks the back button, the pagination is preserved."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10881",
+      "time": "2025-03-04T04:45:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10881#issuecomment-2696184591",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10526",
+      "time": "2025-03-03T11:01:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10526#issuecomment-2694001309",
+      "text": "Testing on going\r\n\r\n- [ ] admin and facility admin are not allowed to create questionnaire or access them"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10960",
+      "time": "2025-03-03T09:51:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10960#issuecomment-2693815495",
+      "text": " @AdityaP700 \n\nSince there are only three location types, we should keep them in a single test rather than separating them. Splitting them would add unnecessary steps and increase execution time without any additional benefit.\nCurrently, if a location is already occupied, it does not appear in the dropdown. Since we're connected to the local development backend, this could lead to flaky tests. To avoid this, we should ignore the occupied locations for now."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10853",
+      "time": "2025-03-03T08:50:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10853#issuecomment-2693659317",
+      "text": "@prynsh there is multiple cypress issues open for grab, look into them,"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10421",
+      "time": "2025-03-03T08:50:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10421",
+      "text": "Handling the blinking issue of pages in CARE due to plug components"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10406",
+      "time": "2025-03-03T08:49:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10406",
+      "text": "Minor issues with ABDM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#10961",
+      "time": "2025-03-03T08:47:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10961",
+      "text": "Add a cypress test to cover functionality of devices"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#10960",
+      "time": "2025-03-03T08:45:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10960",
+      "text": "Create a new cypress test to add a new location to a facility"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#10959",
+      "time": "2025-03-03T08:41:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10959",
+      "text": "Create a new cypress test to add department and team in a facility"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10386",
+      "time": "2025-03-03T08:31:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10386#issuecomment-2693616929",
+      "text": "@hrit2773 unassigning you from the issue due to inactivity "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10351",
+      "time": "2025-03-03T08:29:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10351#issuecomment-2693613002",
+      "text": "@rahulharpal1603 unassigning you from the issue due to inactivity "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10923",
+      "time": "2025-03-03T06:58:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10923",
+      "text": "Mobile view of patient details page is not responsive"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10388",
+      "time": "2025-03-03T06:54:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10388#issuecomment-2693441783",
+      "text": "@sanjayh-2022 unassigning you from this issue due to inactivity "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10266",
+      "time": "2025-03-03T06:53:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10266#issuecomment-2693440658",
+      "text": "guys, feel free to look for unassigned open issues"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10253",
+      "time": "2025-03-03T06:52:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10253#issuecomment-2693438660",
+      "text": "@amjithtitus09 any update on this issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10126",
+      "time": "2025-03-03T06:50:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10126#issuecomment-2693435785",
+      "text": "@Jacobjeevan can you reply to this comment"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10534",
+      "time": "2025-03-03T06:48:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10534#issuecomment-2693432616",
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10532",
+      "time": "2025-03-03T06:47:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10532#issuecomment-2693432410",
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10521",
+      "time": "2025-03-03T06:47:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10521#issuecomment-2693431972",
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10509",
+      "time": "2025-03-03T06:47:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10509#issuecomment-2693431507",
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10508",
+      "time": "2025-03-03T06:47:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10508#issuecomment-2693431159",
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10478",
+      "time": "2025-03-03T06:47:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10478#issuecomment-2693430856",
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10477",
+      "time": "2025-03-03T06:47:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10477#issuecomment-2693430412",
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10474",
+      "time": "2025-03-03T06:46:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10474#issuecomment-2693430174",
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10471",
+      "time": "2025-03-03T06:46:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10471#issuecomment-2693429594",
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10470",
+      "time": "2025-03-03T06:46:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10470#issuecomment-2693429275",
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10906",
+      "time": "2025-03-03T06:45:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10906#issuecomment-2693426488",
+      "text": "can you respond to the issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10892",
+      "time": "2025-03-03T06:43:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10892#issuecomment-2693424844",
+      "text": "@rithviknishad can you evaluate the issue and assign it "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-03T06:38:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2693417185",
+      "text": "@amjithtitus09 can you evaluate the issue, and mention whether its a valid issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10849",
+      "time": "2025-03-03T06:37:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10849#issuecomment-2693415285",
+      "text": "@Jacobjeevan can you look into the comment"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10743",
+      "time": "2025-03-03T06:35:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10743#issuecomment-2693410450",
+      "text": "guys, @amjithtitus09 is working on it, feel free to take up open issues"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10734",
+      "time": "2025-03-03T06:34:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10734",
+      "text": "The medicine list is not filtering based on the search"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10722",
+      "time": "2025-03-03T06:33:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10722#issuecomment-2693405902",
+      "text": "Seems like a browser-specific issue,"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10722",
+      "time": "2025-03-03T06:33:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10722",
+      "text": "Inconsistent Page Generation for Both Landscape and Portrait Modes"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10599",
+      "time": "2025-03-03T06:29:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10599#issuecomment-2693397831",
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10909",
@@ -53904,6 +54787,20 @@
       "text": "Merge Develop To Staging v24.48.0 | Patch"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11036",
+      "title": "New cypress test for facility location",
+      "stale_for": 1,
+      "labels": [
+        "merge conflict"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10788",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10791"
+    }
+  ]
 }

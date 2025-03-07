@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-02-27T14:35:42.000Z",
+  "last_updated": "2025-03-06T21:04:37.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10989",
+      "time": "2025-03-06T21:04:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10989#issuecomment-2704938629",
+      "text": "\r\nhttps://github.com/user-attachments/assets/2fdb8db3-a22f-4044-ba74-102d044ebe7e\r\n\r\nVideo of changed working\r\n@rithviknishad "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#10989",
+      "time": "2025-03-03T19:29:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10989",
+      "text": "Added centralized function to handle camera permission error"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10949",
+      "time": "2025-03-03T04:35:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10949#issuecomment-2693255458",
+      "text": "@Jacobjeevan @nihal467 Can u assign this to me\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10945",
+      "time": "2025-03-02T20:19:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10945#issuecomment-2692888699",
+      "text": "@nihal467 @Jacobjeevan is this valid?? and can i work on it??"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#10945",
+      "time": "2025-03-02T20:18:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10945",
+      "text": "Bug : Large image upload error in edit avatar"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10944",
+      "time": "2025-03-02T20:14:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10944#issuecomment-2692887081",
+      "text": "@nihal467 @Jacobjeevan is this valid or is this getting handled anywhere else??"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#10944",
+      "time": "2025-03-02T20:13:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10944",
+      "text": "Bug : Camera Permission Error"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10735",

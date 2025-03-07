@@ -1,6 +1,230 @@
 {
-  "last_updated": "2025-02-28T12:02:58.000Z",
+  "last_updated": "2025-03-07T07:40:53.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#11106",
+      "time": "2025-03-07T07:40:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11106",
+      "text": "Refactor Encounter Actions into a Reusable Component",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11106",
+      "time": "2025-03-07T07:40:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11106",
+      "text": "Refactor Encounter Actions into a Reusable Component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#11100",
+      "time": "2025-03-07T06:55:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11100",
+      "text": "Staging Release",
+      "turnaround_time": 1879
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-07T06:52:49.000Z",
+      "title": "ohcnetwork/care_fe#11103",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11103#pullrequestreview-2666407722",
+      "text": "patient questionnaire minor fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11100",
+      "time": "2025-03-07T06:24:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11100",
+      "text": "Staging Release"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#11085",
+      "time": "2025-03-06T20:17:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11085",
+      "text": "Release to staging",
+      "turnaround_time": 17600
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11090",
+      "time": "2025-03-06T20:16:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11090",
+      "text": "Its super hard to debug questionnaire errors on mobile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#11091",
+      "time": "2025-03-06T20:16:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11091",
+      "text": "fix: #11090 improve mobile experience for questionnaire errors",
+      "turnaround_time": 278
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11090",
+      "time": "2025-03-06T20:16:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11090#issuecomment-2704848271",
+      "text": "#11090 is a hot fix and can break!!!!"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11091",
+      "time": "2025-03-06T20:13:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11091#issuecomment-2704842983",
+      "text": "@amjithtitus09 I am merging this as a temp fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11091",
+      "time": "2025-03-06T20:11:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11091",
+      "text": "fix: #11090 improve mobile experience for questionnaire errors"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11090",
+      "time": "2025-03-06T20:08:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11090",
+      "text": "Its super hard to debug questionnaire errors on mobile"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11085",
+      "time": "2025-03-06T15:24:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11085",
+      "text": "Release to staging"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#11084",
+      "time": "2025-03-06T15:04:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11084",
+      "text": "Clean up encounter routes",
+      "turnaround_time": 593
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11084",
+      "time": "2025-03-06T14:54:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11084",
+      "text": "Clean up encounter routes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#11081",
+      "time": "2025-03-06T12:26:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11081",
+      "text": "Remove patient query parameter from encounter fetch",
+      "turnaround_time": 12
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11081",
+      "time": "2025-03-06T12:26:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11081",
+      "text": "Remove patient query parameter from encounter fetch"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-06T09:00:55.000Z",
+      "title": "ohcnetwork/care_fe#10969",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10969#pullrequestreview-2663708916",
+      "text": "Encounter Locations view"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11066",
+      "time": "2025-03-05T19:08:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11066#issuecomment-2701833803",
+      "text": "Lets rename `administration` to `governance`"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-05T17:03:59.000Z",
+      "title": "ohcnetwork/care_fe#11037",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11037#pullrequestreview-2661803436",
+      "text": "Retain sidebar collapse state on reload"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10526",
+      "time": "2025-03-05T08:07:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10526#issuecomment-2700161081",
+      "text": "@Jacobjeevan status here?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11033",
+      "time": "2025-03-05T08:05:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11033#issuecomment-2700157742",
+      "text": "Why is this required?, why can't we deploy to staging?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T17:55:59.000Z",
+      "title": "ohcnetwork/care#2890",
+      "link": "https://github.com/ohcnetwork/care/pull/2890#pullrequestreview-2658487318",
+      "text": "Add more consent types"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#11010",
+      "time": "2025-03-04T17:49:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11010",
+      "text": "Update feature_request.md",
+      "turnaround_time": 93
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11010",
+      "time": "2025-03-04T17:48:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11010",
+      "text": "Update feature_request.md"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10860",
+      "time": "2025-03-04T17:39:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10860",
+      "text": "Feat : Implement Sorting in Medicine Administer List"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10860",
+      "time": "2025-03-04T17:39:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10860#issuecomment-2698437134",
+      "text": "I don't think we should implement this at this point in time. Sort is a good to have but without clear ask from field it will eventually end up as a tech debt, we had many sort possibilities in the previous version but the usage patterns showed that 99% of the users were happy with the default view. \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#1105",
+      "time": "2025-03-04T17:35:54.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/1105#issuecomment-2698429246",
+      "text": "@ARH-MNAJS when you request to assign its great if you can respond with your approach so that we are super clear what you have in your mind."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8646",
+      "time": "2025-03-04T17:02:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8646#issuecomment-2698348260",
+      "text": "We will only assign once you complete the CEP process "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/landing#64",
+      "time": "2025-03-04T07:18:20.000Z",
+      "link": "https://github.com/ohcnetwork/landing/issues/64",
+      "text": "Add Page for Scribe"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/landing#54",
+      "time": "2025-03-04T07:18:19.000Z",
+      "link": "https://github.com/ohcnetwork/landing/issues/54",
+      "text": "Update CARE Page as per changes in Care v3"
+    },
     {
       "type": "issue_closed",
       "title": "ohcnetwork/care_fe#10795",
@@ -7896,6 +8120,37 @@
       "text": "Add support for patient tags"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10808",
+      "title": "Display year of birth when age is entered in public patient registration page",
+      "stale_for": 0,
+      "labels": [
+        "needs review",
+        "tested"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/2465",
+      "title": "New Crowdin updates",
+      "stale_for": 5,
+      "labels": [
+        "blocked"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11090",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11091"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8020",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8021"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/7999",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8000"
+    }
+  ]
 }

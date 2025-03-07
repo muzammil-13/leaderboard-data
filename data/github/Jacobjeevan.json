@@ -1,6 +1,987 @@
 {
-  "last_updated": "2025-03-02T15:50:39.000Z",
+  "last_updated": "2025-03-07T07:37:54.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11104",
+      "time": "2025-03-07T07:37:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11104#issuecomment-2705740194",
+      "text": "Let's keep it as is, users may want to back-fill data (past to future or past to past).\n\nInstead, let's show a call out underneath when both dates are in the past."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11028",
+      "time": "2025-03-07T07:11:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11028#issuecomment-2705697695",
+      "text": "> [@Jacobjeevan](https://github.com/Jacobjeevan) [@rithviknishad](https://github.com/rithviknishad) I already started working on it will raise a PR by EOD or tmrw morning. Can I get it assigned. Only then I shall raise a PR\n\nI'd suggest waiting on issue being assigned before you start working on it. Issues like this needs to be addressed product side first."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11104",
+      "time": "2025-03-07T07:03:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11104#issuecomment-2705685638",
+      "text": "Need to be adjusted on the backend as well."
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#11103",
+      "time": "2025-03-07T06:52:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11103",
+      "text": "patient questionnaire minor fix",
+      "turnaround_time": 939
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11103",
+      "time": "2025-03-07T06:37:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11103",
+      "text": "patient questionnaire minor fix"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-07T05:55:31.000Z",
+      "title": "ohcnetwork/care_fe#11011",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11011#pullrequestreview-2666311840",
+      "text": "Refactor: Replace cacheBlacklist with disableCache for complete cache disabling"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-07T05:51:27.000Z",
+      "title": "ohcnetwork/care_fe#11098",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11098#pullrequestreview-2666306948",
+      "text": "Default to nurse user type in the create user form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11097",
+      "time": "2025-03-07T05:48:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11097",
+      "text": "Staging Patch: Patient questionnaire"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-07T05:22:25.000Z",
+      "title": "ohcnetwork/care_fe#10989",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10989#pullrequestreview-2666263888",
+      "text": "Added centralized function to handle camera permission error"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-05T13:49:32.000Z",
+      "title": "ohcnetwork/care_fe#10684",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10684#pullrequestreview-2661109152",
+      "text": "Added pagination to Appointments List view"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#10988",
+      "time": "2025-03-07T04:20:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10988",
+      "text": "Patient Questionnaire: Org Access",
+      "turnaround_time": 291624
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11049",
+      "time": "2025-03-06T23:30:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11049#issuecomment-2705167002",
+      "text": "This isn't needed, no word is going to be that long. Normal paragraphs are rendered correctly.\n\nAlso please refrain from opening PRs until issue is assigned to you."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11049",
+      "time": "2025-03-06T23:30:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11049",
+      "text": "Text overflowing display area for notes in allergies section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11030",
+      "time": "2025-03-06T22:54:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11030",
+      "text": "To add Patient intake/output fluid balance as a questionnaire"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-06T22:37:32.000Z",
+      "title": "ohcnetwork/care_fe#10900",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10900#pullrequestreview-2665665851",
+      "text": "Replaced headlessui popover with shadcn popover in UpdatableApp; Uninstall headlessui"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T16:37:23.000Z",
+      "title": "ohcnetwork/care_fe#10756",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10756#pullrequestreview-2654646639",
+      "text": "Allow to select preferable camera during photo capturing"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11083",
+      "time": "2025-03-06T19:14:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11083#issuecomment-2704728030",
+      "text": "There's already a PR for perms 👍 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11083",
+      "time": "2025-03-06T19:14:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11083",
+      "text": "Edit Button Should Be Visible Only for Users with Appropriate Permissions (e.g., Admins)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10967",
+      "time": "2025-03-06T13:56:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10967",
+      "text": "Text Overflow in \"Plots\" Tab in Encounter Tab in Mobile View"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11012",
+      "time": "2025-03-06T12:05:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11012#issuecomment-2703658807",
+      "text": "@Spandan-Mishra Truncate and tooltip 👍 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11077",
+      "time": "2025-03-06T10:54:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11077#issuecomment-2703500622",
+      "text": "No, the dataset would never be large enough for useMemo to be useful in this context. 👍 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11077",
+      "time": "2025-03-06T10:54:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11077",
+      "text": "Landing Page Code Optimization – Improve Search Performance with useMemo"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11066",
+      "time": "2025-03-06T10:13:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11066#issuecomment-2703401515",
+      "text": "> @nihal467 should I make the changes mentioned by coderabbit and make another commit?\n\nIf the suggestion makes sense yes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#11073",
+      "time": "2025-03-06T09:52:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11073",
+      "text": "Minor layout fixes",
+      "turnaround_time": 4791
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11038",
+      "time": "2025-03-06T08:39:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11038#issuecomment-2703169031",
+      "text": "Taking over since I had opened a PR anyways (didn't realize issue was filed).\n\ncc: @ashwinpraveengo "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11073",
+      "time": "2025-03-06T08:32:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11073",
+      "text": "Minor layout fixes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-06T08:11:42.000Z",
+      "title": "ohcnetwork/care_fe#10680",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10680#pullrequestreview-2663619486",
+      "text": "Adds support for drawing 🎨 by integrating excalidraw"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-06T07:49:47.000Z",
+      "title": "ohcnetwork/care_fe#10946",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10946#pullrequestreview-2663602400",
+      "text": "Feature: multi-select for orgs in locations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-02-26T09:00:16.000Z",
+      "title": "ohcnetwork/care_fe#10815",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10815#pullrequestreview-2643648956",
+      "text": "Support For BULK beds creation in location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-02-27T08:57:29.000Z",
+      "title": "ohcnetwork/care_fe#10838",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10838#pullrequestreview-2647063368",
+      "text": "Added Validations to Valueset form Name and Slug fields along with translations for error messages."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11022",
+      "time": "2025-03-06T07:35:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11022#issuecomment-2703044010",
+      "text": "@sj11105 Complete the merge checklist please."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-06T07:35:34.000Z",
+      "title": "ohcnetwork/care_fe#11022",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11022#pullrequestreview-2663575280",
+      "text": "Fixes Issue  #11008 : Changes  to close the issue of Alignment of User Login Status "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11067",
+      "time": "2025-03-06T06:46:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11067#issuecomment-2702961873",
+      "text": "Not needed. Please do not open PRs until issue is assigned to you."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11060",
+      "time": "2025-03-06T06:45:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11060#issuecomment-2702961279",
+      "text": "Not needed."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11060",
+      "time": "2025-03-06T06:45:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11060",
+      "text": "Implement Clear Button to Reset Contact Fields"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-06T06:41:48.000Z",
+      "title": "ohcnetwork/care_fe#10934",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10934#pullrequestreview-2663446497",
+      "text": "feature: Added services history section in device details page (10828)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-06T06:09:39.000Z",
+      "title": "ohcnetwork/care_fe#10831",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10831#pullrequestreview-2663422511",
+      "text": "Add Search Feature in Devices with name and location wise | Add Clear button in Location Search"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-06T05:56:11.000Z",
+      "title": "ohcnetwork/care_fe#10571",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10571#pullrequestreview-2663406057",
+      "text": "Add Deletion Functionality to Locations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T13:10:31.000Z",
+      "title": "ohcnetwork/care_fe#10940",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10940#pullrequestreview-2657393858",
+      "text": "feat:Add Resend OTP  button at the login page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11055",
+      "time": "2025-03-06T05:27:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11055#issuecomment-2702851670",
+      "text": "> [@Jacobjeevan](https://github.com/Jacobjeevan), [@rithviknishad](https://github.com/rithviknishad) I've tested it, and the scroll issue is not coming from the common layout (App) for the Encounter page. As shown in the screenshots, the issue was due to space-x-6 on the tabs, which caused horizontal scrolling on smaller screens. After changing it to space-x-4, the issue was resolved. For other pages, like the Questionnaire page, the horizontal scroll is caused by the table overflowing, which breaks the layout. Given these findings, please reconsider checking the issue\n\nIt's coming from changes in AppRouter made recently (all of these pages mentioned were working fine until recently).\n\n Anyways, I'm pushing a PR addressing this 👍 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11064",
+      "time": "2025-03-06T02:37:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11064",
+      "text": "Misalignment of Three-Dot Menu in Symptoms Table on Mobile Version"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11012",
+      "time": "2025-03-06T02:36:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11012#issuecomment-2702631272",
+      "text": "Let's not add any limits or validation for name length; propose another way to solve this."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-06T02:19:06.000Z",
+      "title": "ohcnetwork/care_fe#10992",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10992#pullrequestreview-2663060624",
+      "text": "fix:alignment issue for view details button in encounter list"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-06T02:13:02.000Z",
+      "title": "ohcnetwork/care_fe#11018",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11018#pullrequestreview-2663012571",
+      "text": "Enhance Expired On Label Styling on Encounter and Patient details Page for Better Visibility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T04:24:39.000Z",
+      "title": "ohcnetwork/care_fe#10929",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10929#pullrequestreview-2653024993",
+      "text": "feature: add delete feature in location-sidebar of encounter section"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10928",
+      "time": "2025-03-06T02:01:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10928#issuecomment-2702536626",
+      "text": "> @DonXavierdev do i18n, missing in multiple places\r\n\r\nAnd merge checklist as well. Not closing PR since this was opened for the messages in Slack. But make sure to do so next time."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T16:56:28.000Z",
+      "title": "ohcnetwork/care_fe#10915",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10915#pullrequestreview-2654707907",
+      "text": "Bug : fixed the Resposiveness of facility card(#10911)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-06T01:39:58.000Z",
+      "title": "ohcnetwork/care_fe#10927",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10927#pullrequestreview-2662877703",
+      "text": "Fix: Search is not working in facility departmental section"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10898",
+      "time": "2025-03-06T01:10:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10898#issuecomment-2702468975",
+      "text": "> ![image](https://private-user-images.githubusercontent.com/57055998/418993597-1a964643-5427-4445-8e39-f3c47d1f21f9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEyMjI0NDcsIm5iZiI6MTc0MTIyMjE0NywicGF0aCI6Ii81NzA1NTk5OC80MTg5OTM1OTctMWE5NjQ2NDMtNTQyNy00NDQ1LThlMzktZjNjNDdkMWYyMWY5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA2VDAwNDkwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIzOWRmZmMyOThiMjU0NDI5MzhhYTY1ZmQ3YzBjZTMwNzM4OGY3YTQ1MjRjZDAzODg2NzhkMWFlZWZlNTRjMmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gHoPy3C_F45glKMHLXrZEuEMRj2bdYUuu8wX-N-e810)\r\n> \r\n>     * [ ]  When we edit a sub-location, the expanded view collapses. This should not happen—it is expected that the expanded view remains open, allowing users to see the updated details.\r\n\r\nHmm 🤔  Do we really need this? The issue is query doesn't maintain the order of results once re-fetched after save (unless we force alphabetical ordering on backend, which would work in most cases unless user is changing the name)."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11061",
+      "time": "2025-03-05T17:27:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11061#issuecomment-2701607433",
+      "text": "https://github.com/ohcnetwork/care_fe/issues/10964#issuecomment-2694672349"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11061",
+      "time": "2025-03-05T17:27:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11061",
+      "text": "Adding Missing Translation for Hindi Language"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11057",
+      "time": "2025-03-05T17:25:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11057#issuecomment-2701604255",
+      "text": "> I have already opened the PR for [#11009](https://github.com/ohcnetwork/care_fe/issues/11009) . I will make the changes and will open another PR for the same issue\n\nYou can continue committing to that PR; why open a new PR?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11049",
+      "time": "2025-03-05T17:24:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11049#issuecomment-2701600477",
+      "text": "@pyaaraa Please read the instructions in the issue for assignment."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11055",
+      "time": "2025-03-05T17:22:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11055",
+      "text": "Unwanted Horizontal Scroll Causing Layout Overflow on Mobile Screens"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11055",
+      "time": "2025-03-05T17:22:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11055#issuecomment-2701595602",
+      "text": "Pretty sure the scroll issue is coming from common layout (App). Since other PR is tackling it anyways, closing this."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11057",
+      "time": "2025-03-05T17:19:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11057#issuecomment-2701588723",
+      "text": "Combine with #11009 (needs backend change as well).\n\nThe role is not really relevant here."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11057",
+      "time": "2025-03-05T17:19:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11057",
+      "text": "Doctor can create a template with a past date and set its validity to a past date."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-05T13:23:19.000Z",
+      "title": "ohcnetwork/care_fe#10981",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10981#pullrequestreview-2661093491",
+      "text": "card ui fix: inconsistent ui in the card"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-05T13:09:05.000Z",
+      "title": "ohcnetwork/care_fe#11052",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11052#pullrequestreview-2661058337",
+      "text": "update merge checklist to account for mobile devices"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10827",
+      "time": "2025-03-05T12:57:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10827#issuecomment-2700859830",
+      "text": "https://github.com/ohcnetwork/care_fe/issues/10787#issuecomment-2700857137"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10787",
+      "time": "2025-03-05T12:56:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10787#issuecomment-2700857137",
+      "text": "Closing this as focus was deliberately removed due to bad experience on mobile."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10787",
+      "time": "2025-03-05T12:56:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10787",
+      "text": "Search Issue: Focus Not Retained After Selection"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11046",
+      "time": "2025-03-05T12:41:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11046",
+      "text": "BUG: new patient not appear on sidebar after book appointment"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11027",
+      "time": "2025-03-05T10:59:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11027#issuecomment-2700576802",
+      "text": "@khavinshankar is already working on this, assigning to him."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10978",
+      "time": "2025-03-05T06:36:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10978#issuecomment-2700006492",
+      "text": "@Jeffrin2005 Complete merge checklist. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T15:49:42.000Z",
+      "title": "ohcnetwork/care_fe#10978",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10978#pullrequestreview-2654532863",
+      "text": "Fix : Button Refreshes Entire Organizations"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10821",
+      "time": "2025-03-05T06:12:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10821#issuecomment-2699973976",
+      "text": "> Screen.Recording.2025-03-04.at.4.34.00.PM.mov\r\n> \r\n> @Jacobjeevan can you please check this out? I hope this will do 🫡\r\n\r\nGreat 👍 \r\n\r\n- Root doesn't allow expansion/collapse..is that intended? 🤔  If so, we should disable the button and hide the chevron.\r\n- Since we are allowing users to move the nodes around, expand/collapse should preserve their current position, no? Instead it resets it 🤔 \r\n\r\nWell, not a big deal per say, depends on what we want product side."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-05T05:53:17.000Z",
+      "title": "ohcnetwork/care_fe#10921",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10921#pullrequestreview-2660010915",
+      "text": "fix: Add cancel button and disable save button"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T16:49:35.000Z",
+      "title": "ohcnetwork/care_fe#10879",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10879#pullrequestreview-2654687577",
+      "text": "add bed end time support"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11023",
+      "time": "2025-03-05T04:38:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11023#issuecomment-2699794668",
+      "text": "https://github.com/ohcnetwork/care_fe/issues/10706#issuecomment-2668989850"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11023",
+      "time": "2025-03-05T04:38:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11023",
+      "text": "Add name as a parameter for searching patients"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11016",
+      "time": "2025-03-05T01:37:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11016#issuecomment-2699492381",
+      "text": "@Spandan-Mishra Assigned."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11021",
+      "time": "2025-03-05T01:34:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11021#issuecomment-2699486851",
+      "text": "Patient details are editable through the patient page 👍 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11021",
+      "time": "2025-03-05T01:34:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11021",
+      "text": "Add Editable Fields for Patient Details with 'Edit' Button and Dynamic Button Text"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11020",
+      "time": "2025-03-04T23:11:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11020#issuecomment-2699203496",
+      "text": "Wrong Repo. You need to do this in docs."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11007",
+      "time": "2025-03-04T16:52:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11007",
+      "text": "Sort Patient Names in Alphabetical Order"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11007",
+      "time": "2025-03-04T16:52:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11007#issuecomment-2698321802",
+      "text": "This needs to be addressed on the backend."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10993",
+      "time": "2025-03-04T14:53:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10993",
+      "text": "BUG: design improvement facility card in facilities page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T14:51:25.000Z",
+      "title": "ohcnetwork/care_fe#10997",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10997#pullrequestreview-2657881098",
+      "text": "Facilities public listing: adjust grid"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11003",
+      "time": "2025-03-04T14:39:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11003#issuecomment-2697872699",
+      "text": "https://github.com/ohcnetwork/care_fe/issues/10964#issuecomment-2694672349"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11003",
+      "time": "2025-03-04T14:39:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11003",
+      "text": "BUG: Language Selection doesn't propagate language everywhere"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11001",
+      "time": "2025-03-04T14:38:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11001#issuecomment-2697863489",
+      "text": "No, care should be generic enough for to be used anywhere in the world 👍 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11001",
+      "time": "2025-03-04T14:38:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11001",
+      "text": "Update Landing Page Placeholder to \"Choose your district (Kerala)\""
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T13:34:27.000Z",
+      "title": "ohcnetwork/care_fe#10965",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10965#pullrequestreview-2657509586",
+      "text": "bugfix- resolve Function components cannot be given refs error in rea…"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T12:51:15.000Z",
+      "title": "ohcnetwork/care_fe#10808",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10808#pullrequestreview-2657329991",
+      "text": "Display year of birth when age is entered in public patient registration page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10681",
+      "time": "2025-03-04T12:46:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10681#issuecomment-2697456326",
+      "text": "> @Jacobjeevan which desc 🤔\n\nUnder proposed changes"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10736",
+      "time": "2025-03-04T12:40:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10736#issuecomment-2697439667",
+      "text": "@Mahendar0701 Phone number is still broken."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T12:34:19.000Z",
+      "title": "ohcnetwork/care_fe#10963",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10963#pullrequestreview-2657274423",
+      "text": "Fix: Distinguish Active and Ended Medicines"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#10553",
+      "time": "2025-03-04T12:10:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10553",
+      "text": "fix: Adjust containers flexibility and inconsistency",
+      "collaborated_with": [
+        "Tanuj1718",
+        "Jacobjeevan"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#10714",
+      "time": "2025-03-04T12:05:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10714",
+      "text": "Improve responsiveness of User Details page",
+      "collaborated_with": [
+        "Tanuj1718",
+        "Jacobjeevan"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#10886",
+      "time": "2025-03-04T11:58:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10886",
+      "text": "fix: Disable 'Save Valueset' button when there is no changes",
+      "collaborated_with": [
+        "Tanuj1718",
+        "Jacobjeevan"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T10:28:58.000Z",
+      "title": "ohcnetwork/care_fe#10899",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10899#pullrequestreview-2656848406",
+      "text": "Fix : Auto Comment Box Expansion"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T10:22:44.000Z",
+      "title": "ohcnetwork/care_fe#10696",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10696#pullrequestreview-2656827041",
+      "text": "Fix : Search Bar Dropdown Visibility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-02-28T08:23:10.000Z",
+      "title": "ohcnetwork/care_fe#10830",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10830#pullrequestreview-2650058864",
+      "text": "Fix : Image Dragging support for image previews"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10681",
+      "time": "2025-03-04T10:13:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10681#issuecomment-2696944658",
+      "text": "@modamaan Update merge checklist and desc."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-02-25T08:59:47.000Z",
+      "title": "ohcnetwork/care_fe#10681",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10681#pullrequestreview-2640172904",
+      "text": "Refactor Tooltip Implementations to Use TooltipComponent for Consistent and Simplified Management"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T10:11:49.000Z",
+      "title": "ohcnetwork/care_fe#10968",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10968#pullrequestreview-2656793019",
+      "text": "Fix : Questionnaire Navigation main section not working"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10921",
+      "time": "2025-03-04T10:10:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10921#issuecomment-2696933937",
+      "text": "@Tanuj1718 What's the status here?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11000",
+      "time": "2025-03-04T10:08:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11000#issuecomment-2696929613",
+      "text": "If maintain a session reset based on session token expiration 👍 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11000",
+      "time": "2025-03-04T10:08:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11000",
+      "text": "Implement Inactivity Tracker for Auto Logout"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T09:36:29.000Z",
+      "title": "ohcnetwork/care_fe#10950",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10950#pullrequestreview-2656661352",
+      "text": "Add Support for Location Association History of Devices"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10999",
+      "time": "2025-03-04T07:48:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10999#issuecomment-2696519951",
+      "text": "No, this is the correct behavior. Public facility listings display list of schedule-able users, if there are any."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10999",
+      "time": "2025-03-04T07:48:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10999",
+      "text": "No Users Found Message Appears in Facility Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10482",
+      "time": "2025-03-04T07:47:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10482",
+      "text": "Add Support for Live Preview during Questionnaire Creation Phase"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10993",
+      "time": "2025-03-04T06:50:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10993#issuecomment-2696388143",
+      "text": "> [@Jacobjeevan](https://github.com/Jacobjeevan) , i have attach the screenshot of the facilities card after change . review it and tell me is it better now . should i create a pr with this changes ?\n> \n> ```\n>         after change:\n> ```\n> \n> ![Image](https://github.com/user-attachments/assets/c5641090-4cf0-4739-9160-7d05e66c8e9c)\n> \n> ```\n>          before change :       \n> ```\n> \n> ![Image](https://github.com/user-attachments/assets/92814a58-a2f0-4bcc-88f5-f6518de8bf72)\n\nYep, create a PR."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10982",
+      "time": "2025-03-04T05:47:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10982",
+      "text": "Offline support for encounters route and overview of each encounter"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10993",
+      "time": "2025-03-04T05:42:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10993#issuecomment-2696278988",
+      "text": "Hmm 🤔  Let's not change that, instead we can adjust the grid size. Right now, we switch over to 2 columns at md breakpoints, let's switch that to lg for the cards."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10821",
+      "time": "2025-03-04T05:34:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10821#issuecomment-2696265431",
+      "text": "> > > The behavior on expanding a node isn't ideal 🤔 Right now, it zooms out and focuses on the entire tree; it would be better if it focuses on the node that is being expanded (zooming in if needed).\r\n> > \r\n> > \r\n> > Just focus on the node that is being expanded or did you mean the child nodes of the parent?\r\n> \r\n> @Jacobjeevan did you mean like this?\r\n> Screen.Recording.2025-03-04.at.9.01.33.AM.mov\r\n\r\nSomewhat 🤔  On expansion, it still zooms out for a second there (0:08 onwards..instead of just zooming in directly to focus on the node that's expanded).\r\n\r\nOn collapse, focus on node's (that's being collapsed) parent."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10986",
+      "time": "2025-03-04T01:27:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10986",
+      "text": "Confirmation pop-up Required: Marking Patient as Deceased"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#10988",
+      "time": "2025-03-03T19:20:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10988",
+      "text": "Patient Questionnaire: Org Access"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-02-25T09:24:17.000Z",
+      "title": "ohcnetwork/care_fe#10797",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10797#pullrequestreview-2640263129",
+      "text": "Fixes: Input-box-does-not-clear-on-changing-organization"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10871",
+      "time": "2025-03-03T15:58:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2694850507",
+      "text": "Converted to draft, mark as ready when you have committed the changes 👍 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-02-27T10:53:25.000Z",
+      "title": "ohcnetwork/care_fe#10712",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10712#pullrequestreview-2647385879",
+      "text": "Questionnaire and valueset list view enhancement | Remove extra scroll bar"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-02-20T14:25:39.000Z",
+      "title": "ohcnetwork/care_fe#10714",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10714#pullrequestreview-2630019807",
+      "text": "Improve responsiveness of User Details page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10979",
+      "time": "2025-03-03T15:47:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10979#issuecomment-2694821098",
+      "text": "Nah, this was there before, but was removed based on user behavior; Nurses don't enter day -> month -> year."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10979",
+      "time": "2025-03-03T15:47:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10979",
+      "text": "Auto-Switch Focus Between Date of Birth Fields (Day → Month → Year)"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10976",
+      "time": "2025-03-03T15:31:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10976#issuecomment-2694777533",
+      "text": "It's fine, since we haven't implemented a draft feature for questionnaires, it would be useful for users to save as they are editing."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10976",
+      "time": "2025-03-03T15:31:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10976",
+      "text": "Bug: Edit page should be closed when updation is successful"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T15:08:44.000Z",
+      "title": "ohcnetwork/care_fe#10821",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10821#pullrequestreview-2654341831",
+      "text": "Fix: Add a new map view to the locations section of a facility settings"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10975",
+      "time": "2025-03-03T15:03:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10975#issuecomment-2694696261",
+      "text": "@modamaan Let's have one of the new contributors take it 👍 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10964",
+      "time": "2025-03-03T14:55:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10964#issuecomment-2694672349",
+      "text": "Well, a lot of the keys are just missing for other languages and those needed to be added in crowdin - which contributors don't have access to.\n\nAs for missing keys in English, we are slowly adding them whenever a file is modified. Better do that for now, than create a large issue 👍 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10964",
+      "time": "2025-03-03T14:55:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10964",
+      "text": "Multiple sections of the website remain untranslated"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10973",
+      "time": "2025-03-03T14:52:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10973#issuecomment-2694662359",
+      "text": "🤔  On patient creation, user is redirected to a different page that allows them to schedule an appointment or create an encounter). If they choose to skip it, navigate back to search patients, yes they should go through the normal flow."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10973",
+      "time": "2025-03-03T14:52:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10973",
+      "text": "Newly Added Patient Not Displaying in the Patient List by Default"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-01T06:36:57.000Z",
+      "title": "ohcnetwork/care_fe#10891",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10891#pullrequestreview-2652302967",
+      "text": "Fix: Auto-fill Geo Details on Create Facility Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10970",
+      "time": "2025-03-03T13:45:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10970",
+      "text": "Add Card View for Locations inside Settings Tab"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10970",
+      "time": "2025-03-03T13:45:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10970#issuecomment-2694450447",
+      "text": "No, a map view is already under review."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T10:24:09.000Z",
+      "title": "ohcnetwork/care_fe#10883",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10883#pullrequestreview-2653701714",
+      "text": "Fixes: Removing remove Button for Structured Edit Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10957",
+      "time": "2025-03-03T10:07:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10957",
+      "text": "Patient Details Mobile Responsiveness"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10957",
+      "time": "2025-03-03T10:07:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10957#issuecomment-2693859503",
+      "text": "<img width=\"519\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/b2618150-f47f-4b08-b3ab-d34199c0e6fd\" />"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10955",
+      "time": "2025-03-03T10:05:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10955",
+      "text": "Inconsistency in Nurse Mobile view."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10957",
+      "time": "2025-03-03T10:03:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10957#issuecomment-2693848282",
+      "text": "@siddheshThorat04 Please refrain from opening a PR until issue is assigned to you."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10849",
+      "time": "2025-03-03T06:57:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10849#issuecomment-2693447358",
+      "text": "This is more of a Firefox issue than anything else (picker shows up on other browsers like Chrome), we can of course create a time picker component based on Shadcn, but I don't think the effort is worth it right now.\n\nWe can revisit this if product requests it."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10849",
+      "time": "2025-03-03T06:57:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10849",
+      "text": "Clock Picker Does Not Appear Automatically"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T04:19:16.000Z",
+      "title": "ohcnetwork/care_fe#10933",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10933#pullrequestreview-2653020262",
+      "text": "Resposnsive Patient Details Tab"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T04:16:16.000Z",
+      "title": "ohcnetwork/care_fe#10939",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10939#pullrequestreview-2653019037",
+      "text": "fix: Update sidebar navigation logic for admin dashboard"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T04:14:59.000Z",
+      "title": "ohcnetwork/care_fe#10943",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10943#pullrequestreview-2653018213",
+      "text": "Fix : Notes Overflowing Out Of Screen Issue."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10930",
+      "time": "2025-03-03T04:10:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10930#issuecomment-2693231718",
+      "text": "Please read what I've already said:\r\n\r\nhttps://github.com/ohcnetwork/care_fe/pull/10918#issuecomment-2692267604\r\n\r\nYou have not addressed any of the points."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10938",
@@ -77,13 +1058,6 @@
       "time": "2025-03-01T06:40:40.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/10903#issuecomment-2692016242",
       "text": "@prynsh Please refrain from opening PRs if the issue is not assigned to you.\r\n\r\nAdditionally, this is not the solution."
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-03-01T06:36:57.000Z",
-      "title": "ohcnetwork/care_fe#10891",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10891#pullrequestreview-2652302967",
-      "text": "Fix: Auto-fill Geo Details on Create Facility Page"
     },
     {
       "type": "comment_created",
@@ -181,13 +1155,6 @@
       "text": "Fix Button Overflow and Minor Responsive Issues on Mobile View"
     },
     {
-      "type": "pr_reviewed",
-      "time": "2025-02-20T14:25:39.000Z",
-      "title": "ohcnetwork/care_fe#10714",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10714#pullrequestreview-2630019807",
-      "text": "Improve responsiveness of User Details page"
-    },
-    {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10696",
       "time": "2025-02-28T13:48:44.000Z",
@@ -231,24 +1198,10 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2025-02-28T08:23:10.000Z",
-      "title": "ohcnetwork/care_fe#10830",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10830#pullrequestreview-2650058864",
-      "text": "Fix : Image Dragging support for image previews"
-    },
-    {
-      "type": "pr_reviewed",
       "time": "2025-02-26T08:47:44.000Z",
       "title": "ohcnetwork/care_fe#10819",
       "link": "https://github.com/ohcnetwork/care_fe/pull/10819#pullrequestreview-2643625639",
       "text": "Fixed : Newly Added Patient Is Not Instantly Visible in the patient-switcher "
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-02-25T09:24:17.000Z",
-      "title": "ohcnetwork/care_fe#10797",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10797#pullrequestreview-2640263129",
-      "text": "Fixes: Input-box-does-not-clear-on-changing-organization"
     },
     {
       "type": "comment_created",
@@ -256,13 +1209,6 @@
       "time": "2025-02-28T08:06:15.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/10777#issuecomment-2689988729",
       "text": "🤔  I'm comparing this to care.ohc.network - what exactly is the difference in behavior here? I thought you were going to completely clear the results on back button."
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-02-27T08:57:29.000Z",
-      "title": "ohcnetwork/care_fe#10838",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10838#pullrequestreview-2647063368",
-      "text": "Added Validations to Valueset form Name and Slug fields along with translations for error messages."
     },
     {
       "type": "pr_reviewed",
@@ -323,13 +1269,6 @@
       "time": "2025-02-27T12:05:09.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10846",
       "text": "Consent FE"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-02-27T10:53:25.000Z",
-      "title": "ohcnetwork/care_fe#10712",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10712#pullrequestreview-2647385879",
-      "text": "Questionnaire and valueset list view enhancement | Remove extra scroll bar"
     },
     {
       "type": "issue_closed",
@@ -464,13 +1403,6 @@
       "time": "2025-02-26T12:09:31.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10824",
       "text": "The Pagination skips to page 1 on saving Valueset and Questionnaire"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-02-26T09:00:16.000Z",
-      "title": "ohcnetwork/care_fe#10815",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10815#pullrequestreview-2643648956",
-      "text": "Support For BULK beds creation in location"
     },
     {
       "type": "comment_created",
@@ -640,13 +1572,6 @@
       "title": "ohcnetwork/care_fe#10635",
       "link": "https://github.com/ohcnetwork/care_fe/pull/10635#pullrequestreview-2640190049",
       "text": "Ensure DialogContent Accessibility by Adding Description Support"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-02-25T08:59:47.000Z",
-      "title": "ohcnetwork/care_fe#10681",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10681#pullrequestreview-2640172904",
-      "text": "Refactor Tooltip Implementations to Use TooltipComponent for Consistent and Simplified Management"
     },
     {
       "type": "comment_created",
@@ -7964,10 +8889,11 @@
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/10526",
       "title": "Perms based Rendering",
-      "stale_for": 2,
+      "stale_for": 1,
       "labels": [
-        "needs testing",
         "needs review",
+        "tested",
+        "P1",
         "waiting for backend",
         "merge conflict"
       ]
@@ -7975,7 +8901,7 @@
     {
       "link": "https://github.com/ohcnetwork/care/pull/2767",
       "title": "Alt phone number and qualificationspec",
-      "stale_for": 37,
+      "stale_for": 41,
       "labels": []
     }
   ],

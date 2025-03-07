@@ -1,6 +1,175 @@
 {
-  "last_updated": "2025-03-01T07:52:53.000Z",
+  "last_updated": "2025-03-06T13:18:49.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11082",
+      "time": "2025-03-06T13:18:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11082#issuecomment-2703832612",
+      "text": "@rithviknishad @Jacobjeevan Can I work on this issue ? "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11082",
+      "time": "2025-03-06T13:18:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11082",
+      "text": "Profile initials disappear after avatar deletion"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#10978",
+      "time": "2025-03-06T11:01:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10978",
+      "text": "Fix : Button Refreshes Entire Organizations",
+      "turnaround_time": 243427
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10899",
+      "time": "2025-03-05T18:13:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10899#issuecomment-2701712668",
+      "text": "I was trying to delete unwanted files, but unfortunately, it led to closing the PR . @rithviknishad @Jacobjeevan Can I create a new PR?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11060",
+      "time": "2025-03-05T16:48:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11060",
+      "text": "Implement Clear Button to Reset Contact Fields"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10830",
+      "time": "2025-03-05T16:12:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10830#issuecomment-2701413364",
+      "text": "@nihal467 Ready for re-test"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10899",
+      "time": "2025-03-05T15:30:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10899#issuecomment-2701284817",
+      "text": "@khavinshankar Any Changes required ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10696",
+      "time": "2025-03-05T13:08:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10696#issuecomment-2700885803",
+      "text": "@Jacobjeevan In CloneQuestionnaire.\r\n![issu10](https://github.com/user-attachments/assets/e4f50b8a-bc2d-438a-be77-4345ef00a069)\r\n\r\ncurrently In care-fe website it is like this \r\n\r\n\r\n\r\nhttps://github.com/user-attachments/assets/4976b5ce-d126-47c1-8617-f62da1a0053b\r\n\r\nJust a suggestion only since i am also commiting QuestionnaireEditor.tsx , so do we need to make  it as like in the below manner\r\n\r\nhttps://github.com/user-attachments/assets/550c6949-a54f-4f8f-bef3-cc835e819b3f\r\n\r\n\r\n\r\n\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10696",
+      "time": "2025-03-05T12:22:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10696#issuecomment-2700778714",
+      "text": "@rithviknishad @Jacobjeevan Completed merge checklist, Can we re-open this PR ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10777",
+      "time": "2025-03-05T12:22:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10777#issuecomment-2700778568",
+      "text": "@rithviknishad @Jacobjeevan Completed merge checklist, Can we re-open this PR ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10830",
+      "time": "2025-03-05T12:21:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10830#issuecomment-2700778403",
+      "text": "@rithviknishad @Jacobjeevan Completed merge checklist, Can we re-open this PR ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10899",
+      "time": "2025-03-05T12:21:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10899#issuecomment-2700778235",
+      "text": "@rithviknishad @Jacobjeevan Completed merge checklist, Can we re-open this PR ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10968",
+      "time": "2025-03-05T12:21:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10968#issuecomment-2700778033",
+      "text": "@rithviknishad @Jacobjeevan Completed merge checklist, Can we re-open this PR ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10978",
+      "time": "2025-03-05T12:21:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10978#issuecomment-2700777785",
+      "text": "@rithviknishad @Jacobjeevan Completed merge checklist, Can we re-open this PR ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10830",
+      "time": "2025-03-04T12:11:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10830#issuecomment-2697337614",
+      "text": "@Jacobjeevan  className={cn(\r\n                      \"transition-transform duration-100 relative\",\r\n                      dragState.isDragging ? \"duration-0\" : \"\",\r\n                      `translate-x-[${dragState.position.x}px]`,\r\n                      `translate-y-[${dragState.position.y}px]`\r\n                    )} while using tailwind , the drag functionality is not working, and also i forgot to test it \r\n                    \r\n                   For dragging functionality, We need to use inline style approach ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10830",
+      "time": "2025-03-04T11:58:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10830#issuecomment-2697303206",
+      "text": "@nihal467 Sorry , Actualy i forgot to test after the recent request change of jacobjeevan. Could You please verify currently it is working ? "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#10999",
+      "time": "2025-03-04T07:16:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10999",
+      "text": "No Users Found Message Appears in Facility Page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10899",
+      "time": "2025-03-03T15:46:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10899#issuecomment-2694817171",
+      "text": "@rithviknishad @Jacobjeevan Any Changes required?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10696",
+      "time": "2025-03-03T15:44:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10696#issuecomment-2694812800",
+      "text": "@rithviknishad Any changes required?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10830",
+      "time": "2025-03-03T15:42:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10830#issuecomment-2694806905",
+      "text": "@Jacobjeevan Any changes required ?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#10978",
+      "time": "2025-03-03T15:24:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10978",
+      "text": "Fix : Button Refreshes Entire Organizations"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10974",
+      "time": "2025-03-03T14:38:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10974#issuecomment-2694620798",
+      "text": "@rithviknishad @Jacobjeevan Can I work on this issue  ? "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#10974",
+      "time": "2025-03-03T14:38:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10974",
+      "text": "Delete Button Refreshes Entire Organizations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#10968",
+      "time": "2025-03-03T13:09:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10968",
+      "text": "Fix : Questionnaire Navigation main section not working"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10906",
@@ -1510,76 +1679,6 @@
       "text": "@Jacobjeevan I have a doubt regarding this issue. Is this issue present in the GitHub repository of 'care_fe'?"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/90",
-      "title": "Update Jeffrin2005.md",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10899",
-      "title": "Fix : Auto Comment Box Expansion",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10830",
-      "title": "Fix : Image Dragging support for image previews",
-      "stale_for": 0,
-      "labels": [
-        "changes required",
-        "merge conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10777",
-      "title": "Fix : Clear search field when navigating back with browser controls",
-      "stale_for": 1,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10696",
-      "title": "Fix : Search Bar Dropdown Visibility",
-      "stale_for": 1,
-      "labels": [
-        "question",
-        "changes required",
-        "needs-triage"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10786",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10799"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10733",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10778"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10457",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10496"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9960",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9994"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9906",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9909"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9886",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9891"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9845",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9867"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

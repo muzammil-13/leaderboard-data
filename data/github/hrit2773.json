@@ -1,6 +1,287 @@
 {
-  "last_updated": "2025-03-02T17:09:43.000Z",
+  "last_updated": "2025-03-07T08:58:24.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11096",
+      "time": "2025-03-07T08:58:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11096#issuecomment-2705890643",
+      "text": "@Jacobjeevan I guess this is valid??"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11109",
+      "time": "2025-03-07T08:44:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11109#issuecomment-2705862229",
+      "text": "@nihal467 we can use 2 date picker components. Let me look at this immediately"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10684",
+      "time": "2025-03-07T08:08:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10684#issuecomment-2705792708",
+      "text": "@rithviknishad can you review this once"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11028",
+      "time": "2025-03-07T07:33:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11028#issuecomment-2705733710",
+      "text": "@Jacobjeevan no issues 😅 I was not having any new issues to work on so I was just moving forward with it. Just in case it gets assigned I can deliver it. "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11028",
+      "time": "2025-03-07T07:04:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11028#issuecomment-2705686581",
+      "text": "@Jacobjeevan @rithviknishad  I already started working on it will raise a PR by EOD or tmrw morning. Can I get it assigned. Only then I shall raise a PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10684",
+      "time": "2025-03-07T06:57:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10684#issuecomment-2705676718",
+      "text": "@nihal467 you can test this now"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11101",
+      "time": "2025-03-07T06:30:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11101#issuecomment-2705641728",
+      "text": "@Jacobjeevan can I take this up??"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11096",
+      "time": "2025-03-07T04:24:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11096#issuecomment-2705496895",
+      "text": "@Jacobjeevan @rithviknishad  The content overflow needs to be handled accordingly changing some css classes. ETA: 2 days. Can I take this up."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11096",
+      "time": "2025-03-07T04:22:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11096",
+      "text": "Encounter page unwanted scroll is appearing"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11026",
+      "time": "2025-03-06T15:41:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11026#issuecomment-2704214335",
+      "text": "@gigincg resolved the coderabbit comments and made changes accordingly. Can you review this."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10838",
+      "time": "2025-03-06T11:14:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10838#issuecomment-2703547327",
+      "text": "@nihal467 Now it should work can you validate it again."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11028",
+      "time": "2025-03-06T08:36:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11028#issuecomment-2703162900",
+      "text": "@Jacobjeevan \n**Approach**\n- Lets follow the existing template. We can create a new component for Vitals Summary with patient details and the table.\n- We can fetch the data coming from he observation analyse end point.\n- Using the existing PrintPreview component.\n- We can convert that to a table with columns Date, Systolic BP, Diastolic BP, Respiratory Date and Pulse Rate.\n### ETA\n3 days after assignment"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11069",
+      "time": "2025-03-06T07:42:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11069#issuecomment-2703054560",
+      "text": "I mean to say that we can replicate this filter @Bhavishya2601 @Jacobjeevan \n\n![Image](https://github.com/user-attachments/assets/c79247d4-7233-4820-962e-ed0a54219e8c)"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11069",
+      "time": "2025-03-06T07:34:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11069#issuecomment-2703042028",
+      "text": "I guess if there is something which can be added is a filter based on date range similar to the way in the appointments page. For that we need to add backend filters in availability_exceptions viewset and then we can make use of useFilters to filter in a similar fashion as that of appointments page date_from and date_to query params. cc @Jacobjeevan let me know if its needed. If yes then I can make a PR with ETA: 4days"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11028",
+      "time": "2025-03-06T06:21:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11028#issuecomment-2702920561",
+      "text": "@Jacobjeevan @rithviknishad I guess the vitals entered in the consultation-copy-health questionnaire to show up in the overview and the data should be shown in the plots I guess but the data is not showing up even after entering those values"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11028",
+      "time": "2025-03-06T04:56:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11028#issuecomment-2702809164",
+      "text": "@Jacobjeevan vitals are those present in the plots right then we can catch those values and generate a summary with the required table"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10684",
+      "time": "2025-03-05T16:08:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10684#issuecomment-2701402448",
+      "text": "@Jacobjeevan can you plz check it again if this is ok"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10684",
+      "time": "2025-03-05T15:37:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10684#issuecomment-2701316619",
+      "text": "@Jacobjeevan changed accordingly and tested as well its working fine. I guess we are good to go"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#2839",
+      "time": "2025-03-05T12:14:54.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2839#issuecomment-2700762293",
+      "text": "@vigneshhari can you elaborate what needs to be done exactly. I think just like LOINC, SNOMED etc we need to add urn:iso:std:iso:3166 this valueset right"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11028",
+      "time": "2025-03-05T11:41:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11028#issuecomment-2700688483",
+      "text": "@Jacobjeevan @rithviknishad ETA:7th march can I get to work on this"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10845",
+      "time": "2025-03-05T08:04:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10845#issuecomment-2700155114",
+      "text": "@rithviknishad Can you plz make this as draft. By the way updated the checklist"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11014",
+      "time": "2025-03-05T07:20:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11014#issuecomment-2700074432",
+      "text": "@cherish2003 Yup. Let me look into this "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11026",
+      "time": "2025-03-05T07:07:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11026",
+      "text": "Branch3"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11012",
+      "time": "2025-03-05T06:43:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11012#issuecomment-2700017069",
+      "text": "@Spandan-Mishra We have to validate it in the backend first and then frontend. Can I get it assigned. @Jacobjeevan "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11014",
+      "time": "2025-03-05T06:40:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11014#issuecomment-2700012595",
+      "text": "@cherish2003 I have seen this in many places. It only looks good for small texts but for larger text it overflows. I think we have to make the width of the drop down to get adjusted with the text. cc @Jacobjeevan Can I work on this?? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11025",
+      "time": "2025-03-05T06:21:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11025#issuecomment-2699986776",
+      "text": "@abhimanyurajeesh \nAproach: I would use react-markdown library from npm it will make things easier the code would also look cleaner. It will also be easy to implement the preview if we use this library. cc @Jacobjeevan \n\nExpected ETA: 9th March 2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10838",
+      "time": "2025-03-04T10:49:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10838#issuecomment-2697059912",
+      "text": "@rithviknishad @Jacobjeevan made the suggested change"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10684",
+      "time": "2025-03-04T09:51:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10684#issuecomment-2696875588",
+      "text": "@Jacobjeevan I removed all those unnecessary page resets and also tested. It turns out that {...qParams, page:1} are not needed while using updateQuery so removed those. And to fix linting I ran npx audit fix and the lock file changes appeared should I keep it or...."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10684",
+      "time": "2025-03-04T09:44:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10684#issuecomment-2696850950",
+      "text": "@Jacobjeevan @rithviknishad \r\n![Screenshot 2025-03-04 150640](https://github.com/user-attachments/assets/47e9728d-3524-4bad-94f1-37b614bd808c)\r\n![Screenshot 2025-03-04 150614](https://github.com/user-attachments/assets/db5f1857-9ee1-47f0-bca6-339b223b2d31)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-04T07:29:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2696467314",
+      "text": "@amjithtitus09 I got the above as response. It is identifying the field is required. "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-04T07:27:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2696463498",
+      "text": "{\n    \"results\": [\n        {\n            \"reference_id\": \"medication_request\",\n            \"data\": [\n                {\n                    \"id\": \"abd66296-6b2b-4eb5-8c0b-b5bea318e791\",\n                    \"status\": \"entered_in_error\",\n                    \"status_reason\": null,\n                    \"intent\": \"order\",\n                    \"category\": \"inpatient\",\n                    \"priority\": \"routine\",\n                    \"do_not_perform\": false,\n                    \"medication\": {\n                        \"code\": \"444789000\",\n                        \"system\": \"http://snomed.info/sct\",\n                        \"display\": \"Doxepin 3 mg oral tablet\"\n                    },\n                    \"encounter\": \"b5d84d30-ff2f-4c3f-9607-efeb3889415a\",\n                    \"dosage_instruction\": [\n                        {\n                            \"dose_and_rate\": null,\n                            \"as_needed_boolean\": false\n                        }\n                    ],\n                    \"authored_on\": \"2025-03-04T06:49:30.668000Z\",\n                    \"note\": null,\n                    \"created_by\": {\n                        \"meta\": {},\n                        \"id\": \"aa7de195-f60a-4de9-b0ac-8e52cc885d27\",\n                        \"first_name\": \"\",\n                        \"last_name\": \"\",\n                        \"phone_number\": \"+919696969696\",\n                        \"last_login\": \"2025-03-04T07:15:31.290732Z\",\n                        \"profile_picture_url\": null,\n                        \"user_type\": \"40\",\n                        \"gender\": \"3\",\n                        \"username\": \"hritesh\"\n                    },\n                    \"updated_by\": {\n                        \"meta\": {},\n                        \"id\": \"aa7de195-f60a-4de9-b0ac-8e52cc885d27\",\n                        \"first_name\": \"\",\n                        \"last_name\": \"\",\n                        \"phone_number\": \"+919696969696\",\n                        \"last_login\": \"2025-03-04T07:15:31.290732Z\",\n                        \"profile_picture_url\": null,\n                        \"user_type\": \"40\",\n                        \"gender\": \"3\",\n                        \"username\": \"hritesh\"\n                    },\n                    \"created_date\": \"2025-03-04T06:53:02.999376Z\",\n                    \"modified_date\": \"2025-03-04T07:19:33.857821Z\"\n                },\n                {\n                    \"id\": \"1774210a-07d0-49bc-a225-e8ac35480333\",\n                    \"status\": \"active\",\n                    \"status_reason\": null,\n                    \"intent\": \"order\",\n                    \"category\": \"inpatient\",\n                    \"priority\": \"routine\",\n                    \"do_not_perform\": false,\n                    \"medication\": {\n                        \"code\": \"444789000\",\n                        \"system\": \"http://snomed.info/sct\",\n                        \"display\": \"Doxepin 3 mg oral tablet\"\n                    },\n                    \"encounter\": \"b5d84d30-ff2f-4c3f-9607-efeb3889415a\",\n                    \"dosage_instruction\": [\n                        {\n                            \"timing\": {\n                                \"code\": {\n                                    \"code\": \"Q3H\",\n                                    \"system\": \"http://terminology.hl7.org/CodeSystem/v3-GTSAbbreviation\",\n                                    \"display\": \"Every 3 hours\"\n                                },\n                                \"repeat\": {\n                                    \"period\": 3.0,\n                                    \"frequency\": 1,\n                                    \"period_unit\": \"h\",\n                                    \"bounds_duration\": {\n                                        \"unit\": \"d\",\n                                        \"value\": 1.0\n                                    }\n                                }\n                            },\n                            \"dose_and_rate\": null,\n                            \"as_needed_boolean\": false\n                        }\n                    ],\n                    \"authored_on\": \"2025-03-04T06:54:36.725000Z\",\n                    \"note\": null,\n                    \"created_by\": {\n                        \"meta\": {},\n                        \"id\": \"aa7de195-f60a-4de9-b0ac-8e52cc885d27\",\n                        \"first_name\": \"\",\n                        \"last_name\": \"\",\n                        \"phone_number\": \"+919696969696\",\n                        \"last_login\": \"2025-03-04T07:15:31.290732Z\",\n                        \"profile_picture_url\": null,\n                        \"user_type\": \"40\",\n                        \"gender\": \"3\",\n                        \"username\": \"hritesh\"\n                    },\n                    \"updated_by\": {\n                        \"meta\": {},\n                        \"id\": \"aa7de195-f60a-4de9-b0ac-8e52cc885d27\",\n                        \"first_name\": \"\",\n                        \"last_name\": \"\",\n                        \"phone_number\": \"+919696969696\",\n                        \"last_login\": \"2025-03-04T07:15:31.290732Z\",\n                        \"profile_picture_url\": null,\n                        \"user_type\": \"40\",\n                        \"gender\": \"3\",\n                        \"username\": \"hritesh\"\n                    },\n                    \"created_date\": \"2025-03-04T06:54:54.268921Z\",\n                    \"modified_date\": \"2025-03-04T07:19:34.342906Z\"\n                },\n                {\n                    \"id\": \"b784ef53-1175-4922-961e-844c4503c850\",\n                    \"status\": \"active\",\n                    \"status_reason\": null,\n                    \"intent\": \"order\",\n                    \"category\": \"inpatient\",\n                    \"priority\": \"routine\",\n                    \"do_not_perform\": false,\n                    \"medication\": {\n                        \"code\": \"325550005\",\n                        \"system\": \"http://snomed.info/sct\",\n                        \"display\": \"Estriol 1 mg oral tablet\"\n                    },\n                    \"encounter\": \"b5d84d30-ff2f-4c3f-9607-efeb3889415a\",\n                    \"dosage_instruction\": [\n                        {\n                            \"timing\": {\n                                \"code\": {\n                                    \"code\": \"Q3H\",\n                                    \"system\": \"http://terminology.hl7.org/CodeSystem/v3-GTSAbbreviation\",\n                                    \"display\": \"Every 3 hours\"\n                                },\n                                \"repeat\": {\n                                    \"period\": 3.0,\n                                    \"frequency\": 1,\n                                    \"period_unit\": \"h\",\n                                    \"bounds_duration\": {\n                                        \"unit\": \"mo\",\n                                        \"value\": 2.0\n                                    }\n                                }\n                            },\n                            \"dose_and_rate\": null,\n                            \"as_needed_boolean\": false\n                        }\n                    ],\n                    \"authored_on\": \"2025-03-04T07:07:41.365000Z\",\n                    \"note\": null,\n                    \"created_by\": {\n                        \"meta\": {},\n                        \"id\": \"aa7de195-f60a-4de9-b0ac-8e52cc885d27\",\n                        \"first_name\": \"\",\n                        \"last_name\": \"\",\n                        \"phone_number\": \"+919696969696\",\n                        \"last_login\": \"2025-03-04T07:15:31.290732Z\",\n                        \"profile_picture_url\": null,\n                        \"user_type\": \"40\",\n                        \"gender\": \"3\",\n                        \"username\": \"hritesh\"\n                    },\n                    \"updated_by\": {\n                        \"meta\": {},\n                        \"id\": \"aa7de195-f60a-4de9-b0ac-8e52cc885d27\",\n                        \"first_name\": \"\",\n                        \"last_name\": \"\",\n                        \"phone_number\": \"+919696969696\",\n                        \"last_login\": \"2025-03-04T07:15:31.290732Z\",\n                        \"profile_picture_url\": null,\n                        \"user_type\": \"40\",\n                        \"gender\": \"3\",\n                        \"username\": \"hritesh\"\n                    },\n                    \"created_date\": \"2025-03-04T07:08:07.600010Z\",\n                    \"modified_date\": \"2025-03-04T07:19:34.509285Z\"\n                },\n                {\n                    \"id\": \"b7e69422-661c-4dd7-a4d4-2c5043c55e49\",\n                    \"status\": \"active\",\n                    \"status_reason\": null,\n                    \"intent\": \"order\",\n                    \"category\": \"inpatient\",\n                    \"priority\": \"routine\",\n                    \"do_not_perform\": false,\n                    \"medication\": {\n                        \"code\": \"417720003\",\n                        \"system\": \"http://snomed.info/sct\",\n                        \"display\": \"Zinc 25 mg oral capsule\"\n                    },\n                    \"encounter\": \"b5d84d30-ff2f-4c3f-9607-efeb3889415a\",\n                    \"dosage_instruction\": [\n                        {\n                            \"dose_and_rate\": null,\n                            \"as_needed_boolean\": false\n                        }\n                    ],\n                    \"authored_on\": \"2025-03-04T07:14:41.237000Z\",\n                    \"note\": null,\n                    \"created_by\": {\n                        \"meta\": {},\n                        \"id\": \"aa7de195-f60a-4de9-b0ac-8e52cc885d27\",\n                        \"first_name\": \"\",\n                        \"last_name\": \"\",\n                        \"phone_number\": \"+919696969696\",\n                        \"last_login\": \"2025-03-04T07:15:31.290732Z\",\n                        \"profile_picture_url\": null,\n                        \"user_type\": \"40\",\n                        \"gender\": \"3\",\n                        \"username\": \"hritesh\"\n                    },\n                    \"updated_by\": {\n                        \"meta\": {},\n                        \"id\": \"aa7de195-f60a-4de9-b0ac-8e52cc885d27\",\n                        \"first_name\": \"\",\n                        \"last_name\": \"\",\n                        \"phone_number\": \"+919696969696\",\n                        \"last_login\": \"2025-03-04T07:15:31.290732Z\",\n                        \"profile_picture_url\": null,\n                        \"user_type\": \"40\",\n                        \"gender\": \"3\",\n                        \"username\": \"hritesh\"\n                    },\n                    \"created_date\": \"2025-03-04T07:16:46.817381Z\",\n                    \"modified_date\": \"2025-03-04T07:19:34.663801Z\"\n                },\n                {\n                    \"errors\": [\n                        {\n                            \"type\": \"missing\",\n                            \"loc\": [\n                                \"dosage_instruction\",\n                                0,\n                                \"dose_and_rate\"\n                            ],\n                            \"msg\": \"Field required\",\n                            \"input\": {\n                                \"as_needed_boolean\": false\n                            },\n                            \"url\": \"https://errors.pydantic.dev/2.9/v/missing\"\n                        }\n                    ]\n                }\n            ],\n            \"status_code\": 400\n        }\n    ]\n}"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-04T07:26:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2696462807",
+      "text": "`{\n    \"results\": [\n        {\n            \"reference_id\": \"medication_request\",\n            \"data\": [\n                {\n                    \"id\": \"abd66296-6b2b-4eb5-8c0b-b5bea318e791\",\n                    \"status\": \"entered_in_error\",\n                    \"status_reason\": null,\n                    \"intent\": \"order\",\n                    \"category\": \"inpatient\",\n                    \"priority\": \"routine\",\n                    \"do_not_perform\": false,\n                    \"medication\": {\n                        \"code\": \"444789000\",\n                        \"system\": \"http://snomed.info/sct\",\n                        \"display\": \"Doxepin 3 mg oral tablet\"\n                    },\n                    \"encounter\": \"b5d84d30-ff2f-4c3f-9607-efeb3889415a\",\n                    \"dosage_instruction\": [\n                        {\n                            \"dose_and_rate\": null,\n                            \"as_needed_boolean\": false\n                        }\n                    ],\n                    \"authored_on\": \"2025-03-04T06:49:30.668000Z\",\n                    \"note\": null,\n                    \"created_by\": {\n                        \"meta\": {},\n                        \"id\": \"aa7de195-f60a-4de9-b0ac-8e52cc885d27\",\n                        \"first_name\": \"\",\n                        \"last_name\": \"\",\n                        \"phone_number\": \"+919696969696\",\n                        \"last_login\": \"2025-03-04T07:15:31.290732Z\",\n                        \"profile_picture_url\": null,\n                        \"user_type\": \"40\",\n                        \"gender\": \"3\",\n                        \"username\": \"hritesh\"\n                    },\n                    \"updated_by\": {\n                        \"meta\": {},\n                        \"id\": \"aa7de195-f60a-4de9-b0ac-8e52cc885d27\",\n                        \"first_name\": \"\",\n                        \"last_name\": \"\",\n                        \"phone_number\": \"+919696969696\",\n                        \"last_login\": \"2025-03-04T07:15:31.290732Z\",\n                        \"profile_picture_url\": null,\n                        \"user_type\": \"40\",\n                        \"gender\": \"3\",\n                        \"username\": \"hritesh\"\n                    },\n                    \"created_date\": \"2025-03-04T06:53:02.999376Z\",\n                    \"modified_date\": \"2025-03-04T07:19:33.857821Z\"\n                },\n                {\n                    \"id\": \"1774210a-07d0-49bc-a225-e8ac35480333\",\n                    \"status\": \"active\",\n                    \"status_reason\": null,\n                    \"intent\": \"order\",\n                    \"category\": \"inpatient\",\n                    \"priority\": \"routine\",\n                    \"do_not_perform\": false,\n                    \"medication\": {\n                        \"code\": \"444789000\",\n                        \"system\": \"http://snomed.info/sct\",\n                        \"display\": \"Doxepin 3 mg oral tablet\"\n                    },\n                    \"encounter\": \"b5d84d30-ff2f-4c3f-9607-efeb3889415a\",\n                    \"dosage_instruction\": [\n                        {\n                            \"timing\": {\n                                \"code\": {\n                                    \"code\": \"Q3H\",\n                                    \"system\": \"http://terminology.hl7.org/CodeSystem/v3-GTSAbbreviation\",\n                                    \"display\": \"Every 3 hours\"\n                                },\n                                \"repeat\": {\n                                    \"period\": 3.0,\n                                    \"frequency\": 1,\n                                    \"period_unit\": \"h\",\n                                    \"bounds_duration\": {\n                                        \"unit\": \"d\",\n                                        \"value\": 1.0\n                                    }\n                                }\n                            },\n                            \"dose_and_rate\": null,\n                            \"as_needed_boolean\": false\n                        }\n                    ],\n                    \"authored_on\": \"2025-03-04T06:54:36.725000Z\",\n                    \"note\": null,\n                    \"created_by\": {\n                        \"meta\": {},\n                        \"id\": \"aa7de195-f60a-4de9-b0ac-8e52cc885d27\",\n                        \"first_name\": \"\",\n                        \"last_name\": \"\",\n                        \"phone_number\": \"+919696969696\",\n                        \"last_login\": \"2025-03-04T07:15:31.290732Z\",\n                        \"profile_picture_url\": null,\n                        \"user_type\": \"40\",\n                        \"gender\": \"3\",\n                        \"username\": \"hritesh\"\n                    },\n                    \"updated_by\": {\n                        \"meta\": {},\n                        \"id\": \"aa7de195-f60a-4de9-b0ac-8e52cc885d27\",\n                        \"first_name\": \"\",\n                        \"last_name\": \"\",\n                        \"phone_number\": \"+919696969696\",\n                        \"last_login\": \"2025-03-04T07:15:31.290732Z\",\n                        \"profile_picture_url\": null,\n                        \"user_type\": \"40\",\n                        \"gender\": \"3\",\n                        \"username\": \"hritesh\"\n                    },\n                    \"created_date\": \"2025-03-04T06:54:54.268921Z\",\n                    \"modified_date\": \"2025-03-04T07:19:34.342906Z\"\n                },\n                {\n                    \"id\": \"b784ef53-1175-4922-961e-844c4503c850\",\n                    \"status\": \"active\",\n                    \"status_reason\": null,\n                    \"intent\": \"order\",\n                    \"category\": \"inpatient\",\n                    \"priority\": \"routine\",\n                    \"do_not_perform\": false,\n                    \"medication\": {\n                        \"code\": \"325550005\",\n                        \"system\": \"http://snomed.info/sct\",\n                        \"display\": \"Estriol 1 mg oral tablet\"\n                    },\n                    \"encounter\": \"b5d84d30-ff2f-4c3f-9607-efeb3889415a\",\n                    \"dosage_instruction\": [\n                        {\n                            \"timing\": {\n                                \"code\": {\n                                    \"code\": \"Q3H\",\n                                    \"system\": \"http://terminology.hl7.org/CodeSystem/v3-GTSAbbreviation\",\n                                    \"display\": \"Every 3 hours\"\n                                },\n                                \"repeat\": {\n                                    \"period\": 3.0,\n                                    \"frequency\": 1,\n                                    \"period_unit\": \"h\",\n                                    \"bounds_duration\": {\n                                        \"unit\": \"mo\",\n                                        \"value\": 2.0\n                                    }\n                                }\n                            },\n                            \"dose_and_rate\": null,\n                            \"as_needed_boolean\": false\n                        }\n                    ],\n                    \"authored_on\": \"2025-03-04T07:07:41.365000Z\",\n                    \"note\": null,\n                    \"created_by\": {\n                        \"meta\": {},\n                        \"id\": \"aa7de195-f60a-4de9-b0ac-8e52cc885d27\",\n                        \"first_name\": \"\",\n                        \"last_name\": \"\",\n                        \"phone_number\": \"+919696969696\",\n                        \"last_login\": \"2025-03-04T07:15:31.290732Z\",\n                        \"profile_picture_url\": null,\n                        \"user_type\": \"40\",\n                        \"gender\": \"3\",\n                        \"username\": \"hritesh\"\n                    },\n                    \"updated_by\": {\n                        \"meta\": {},\n                        \"id\": \"aa7de195-f60a-4de9-b0ac-8e52cc885d27\",\n                        \"first_name\": \"\",\n                        \"last_name\": \"\",\n                        \"phone_number\": \"+919696969696\",\n                        \"last_login\": \"2025-03-04T07:15:31.290732Z\",\n                        \"profile_picture_url\": null,\n                        \"user_type\": \"40\",\n                        \"gender\": \"3\",\n                        \"username\": \"hritesh\"\n                    },\n                    \"created_date\": \"2025-03-04T07:08:07.600010Z\",\n                    \"modified_date\": \"2025-03-04T07:19:34.509285Z\"\n                },\n                {\n                    \"id\": \"b7e69422-661c-4dd7-a4d4-2c5043c55e49\",\n                    \"status\": \"active\",\n                    \"status_reason\": null,\n                    \"intent\": \"order\",\n                    \"category\": \"inpatient\",\n                    \"priority\": \"routine\",\n                    \"do_not_perform\": false,\n                    \"medication\": {\n                        \"code\": \"417720003\",\n                        \"system\": \"http://snomed.info/sct\",\n                        \"display\": \"Zinc 25 mg oral capsule\"\n                    },\n                    \"encounter\": \"b5d84d30-ff2f-4c3f-9607-efeb3889415a\",\n                    \"dosage_instruction\": [\n                        {\n                            \"dose_and_rate\": null,\n                            \"as_needed_boolean\": false\n                        }\n                    ],\n                    \"authored_on\": \"2025-03-04T07:14:41.237000Z\",\n                    \"note\": null,\n                    \"created_by\": {\n                        \"meta\": {},\n                        \"id\": \"aa7de195-f60a-4de9-b0ac-8e52cc885d27\",\n                        \"first_name\": \"\",\n                        \"last_name\": \"\",\n                        \"phone_number\": \"+919696969696\",\n                        \"last_login\": \"2025-03-04T07:15:31.290732Z\",\n                        \"profile_picture_url\": null,\n                        \"user_type\": \"40\",\n                        \"gender\": \"3\",\n                        \"username\": \"hritesh\"\n                    },\n                    \"updated_by\": {\n                        \"meta\": {},\n                        \"id\": \"aa7de195-f60a-4de9-b0ac-8e52cc885d27\",\n                        \"first_name\": \"\",\n                        \"last_name\": \"\",\n                        \"phone_number\": \"+919696969696\",\n                        \"last_login\": \"2025-03-04T07:15:31.290732Z\",\n                        \"profile_picture_url\": null,\n                        \"user_type\": \"40\",\n                        \"gender\": \"3\",\n                        \"username\": \"hritesh\"\n                    },\n                    \"created_date\": \"2025-03-04T07:16:46.817381Z\",\n                    \"modified_date\": \"2025-03-04T07:19:34.663801Z\"\n                },\n                {\n                    \"errors\": [\n                        {\n                            \"type\": \"missing\",\n                            \"loc\": [\n                                \"dosage_instruction\",\n                                0,\n                                \"dose_and_rate\"\n                            ],\n                            \"msg\": \"Field required\",\n                            \"input\": {\n                                \"as_needed_boolean\": false\n                            },\n                            \"url\": \"https://errors.pydantic.dev/2.9/v/missing\"\n                        }\n                    ]\n                }\n            ],\n            \"status_code\": 400\n        }\n    ]\n}`"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-04T07:02:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2696412545",
+      "text": "@amjithtitus09 which one? the response of the failed to submit questionnaire or the response of the medicines data in prescriptions"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-04T06:45:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2696378923",
+      "text": "@amjithtitus09 I think we can add some other message from the backend. Should I do that"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-04T06:44:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2696377712",
+      "text": "@amjithtitus09 Its working now. Its just showing failed to submit the questionnaire"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-04T05:57:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2696305620",
+      "text": "@amjithtitus09 I'm adding not none field validator in backend and its still getting submitted maybe the problem there is also some problem with how frontend is sending data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#2883",
+      "time": "2025-03-03T15:30:56.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/2883",
+      "text": "Added name and status filters to condition and allergy intolerance",
+      "turnaround_time": 80604
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10861",
+      "time": "2025-03-03T09:51:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10861#issuecomment-2693814803",
+      "text": "> [@hrit2773](https://github.com/hrit2773) Can you post a screenshot of what shows up in UI after the BE validation is added? It's to understand if an FE fix is required\n\nYa sure will do that by EOD"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10689",
+      "time": "2025-03-03T08:09:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10689#issuecomment-2693572649",
+      "text": "@Jacobjeevan @rithviknishad if this is finalised I want to take this up for this week. I can also make some mockups for it. Feel free to assign this to me once the discussion is over"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10863",
+      "time": "2025-03-03T08:05:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10863#issuecomment-2693564211",
+      "text": "@Jacobjeevan @rithviknishad I made a PR adding backend filters for symptoms diagnosis so if this is finalized please lete know so that I can start working "
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care#2883",
@@ -2287,40 +2568,32 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care/pull/2883",
-      "title": "Added name and status filters to condition and allergy intolerance",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11026",
+      "title": "Added Fetching Valueset options in Encounter Questionnaire Choice Question component",
       "stale_for": 0,
       "labels": []
     },
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10845",
-      "title": "Valueset options fetching in choice question component",
-      "stale_for": 2,
-      "labels": [
-        "needs review"
-      ]
-    },
-    {
       "link": "https://github.com/ohcnetwork/care_fe/pull/10838",
       "title": "Added Validations to Valueset form Name and Slug fields along with translations for error messages.",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "needs testing"
+        "test failed"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/care_fe/pull/10684",
       "title": "Added pagination to Appointments List view",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "invalid",
-        "changes required"
+        "needs testing",
+        "needs review"
       ]
     },
     {
       "link": "https://github.com/ohcnetwork/docs/pull/100",
       "title": "Added CEP for Patient Tagging system",
-      "stale_for": 26,
+      "stale_for": 30,
       "labels": []
     }
   ],

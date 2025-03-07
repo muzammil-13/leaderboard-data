@@ -307,6 +307,251 @@
                         }
                     ]
                 }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2025-03-04 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1741074125.800439",
+            "edited": {
+                "user": "U0847CWJ941",
+                "ts": "1741074137.000000"
+            },
+            "client_msg_id": "6019ceeb-57b8-4d3b-a24a-4f237a44cfd9",
+            "text": "March 3\nWork Done: \n\u2022 Solved the \"functional ref not found\" error. This was resolved by ensuring that the referenced function was properly initialized and accessible within the component and raised PR for the same.\n\u2022 Raised another issue related to Console error while adding schedule exception\nNext:\n\u2022 Solve the assigned issue (console error while adding schedule exception)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "wxlxa",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "March 3\nWork Done: \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Solved the \"functional ref not found\" error. This was resolved by ensuring that the referenced function was properly initialized and accessible within the component and raised PR for the same."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised another issue related to Console error while adding schedule exception"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Solve the assigned issue (console error while adding schedule exception)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-05 00:00:00": [
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1741197114.289449",
+            "client_msg_id": "0211f5ee-3eb1-4619-9abc-610ef248c962",
+            "text": "March 5\n\nWork Done:\n\u2022 Fixed the controller problem in add exception page by adding default values yo start time and end time  raised draft PR. There are similar issues in another pages also so need to find and make changes.\n\u2022 Issue related to functional refs not found, was noticed in Add Patient and Add schedule.\n\u2022 Got Assigned to the issue related to Mobile responsiveness in Encounter and Patient Detail Page\nNext:\n\u2022 Fix the mobile responsiveness in Encounter Page.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qGd7i",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "March 5\n\nWork Done:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed the controller problem in add exception page by adding default values yo start time and end time  raised draft PR. There are similar issues in another pages also so need to find and make changes."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Issue related to functional refs not found, was noticed in Add Patient and Add schedule."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got Assigned to the issue related to Mobile responsiveness in Encounter and Patient Detail Page"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix the mobile responsiveness in Encounter Page."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U0847CWJ941",
+            "type": "message",
+            "ts": "1741159963.255709",
+            "client_msg_id": "b73efae5-9dca-4347-b870-aa390c33a2f8",
+            "text": "4 March 2025\n\u2022 Tried to solve the issue related to adding schedule exception but couldn't solve.\n\u2022 Also got some Reviews in the last pr to find more places where there is form control error.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "WmZ5y",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "4 March 2025\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tried to solve the issue related to adding schedule exception but couldn't solve."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Also got some Reviews in the last pr to find more places where there is form control error."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
             ]
         }
     ]

@@ -1,6 +1,396 @@
 {
-  "last_updated": "2025-03-01T13:14:57.000Z",
+  "last_updated": "2025-03-07T08:49:37.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11111",
+      "time": "2025-03-07T08:49:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11111",
+      "text": "Fixes the typographer quote replacement issue"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-07T05:55:54.000Z",
+      "title": "ohcnetwork/care_fe#11097",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11097#pullrequestreview-2666312249",
+      "text": "Staging Patch: Patient questionnaire"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T12:45:49.000Z",
+      "title": "ohcnetwork/care_fe#10988",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10988#pullrequestreview-2657315096",
+      "text": "Patient Questionnaire: Org Access"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11017",
+      "time": "2025-03-06T12:07:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11017#issuecomment-2703662687",
+      "text": "This is not relevant anymore; closing this issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#11017",
+      "time": "2025-03-06T12:07:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11017",
+      "text": "Remove Hardcoded Google Maps API Key from care.config.ts"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10564",
+      "time": "2025-03-06T11:05:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10564",
+      "text": "Refactor All Tooltip Implementations to Use TooltipComponent for Simplified Provider & Trigger Management"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_abdm#28",
+      "time": "2025-03-06T07:13:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_abdm/pull/28",
+      "text": "Adds migration for patient reference in abha number model"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11071",
+      "time": "2025-03-06T06:59:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11071#issuecomment-2702981756",
+      "text": "After discussing the UI with @amjithtitus09 and @bodhish, this needs some changes,\r\n1. Add a table in the next page, that lists of all the administrations along with exact time, and administered by and sort it by administration date.\r\n2. Instead of calendar days in the header, use last 7 days."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11071",
+      "time": "2025-03-06T05:33:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11071",
+      "text": "Added print feature for medication administrations"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9553",
+      "time": "2025-03-06T05:30:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9553#issuecomment-2702854875",
+      "text": "This is already completed and is live in staging; ABDM supports linking abha number in patient form and about HCX the entire UI is under a redesign"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#9553",
+      "time": "2025-03-06T05:30:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9553",
+      "text": "Add ABDM, HCX support to patient registration form"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10996",
+      "time": "2025-03-06T05:27:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10996#issuecomment-2702851463",
+      "text": "@gurukiran7 check with a lengthier screen"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10853",
+      "time": "2025-03-05T09:09:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10853",
+      "text": "Cypress: Test for multiple viewports"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-05T09:09:18.000Z",
+      "title": "ohcnetwork/care_fe#11031",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11031#pullrequestreview-2660433928",
+      "text": "Restructured the cy.viewport usage to more reusable way"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_nhcx#1",
+      "time": "2025-03-05T05:55:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_nhcx/issues/1",
+      "text": "NHCX Integration"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10681",
+      "time": "2025-03-05T03:43:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10681#issuecomment-2699714066",
+      "text": "@modamaan fix the merge conflicts"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-05T03:36:50.000Z",
+      "title": "ohcnetwork/care_fe#10712",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10712#pullrequestreview-2659782619",
+      "text": "Questionnaire and valueset list view enhancement"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-05T03:32:48.000Z",
+      "title": "ohcnetwork/care_fe#10681",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10681#pullrequestreview-2659773796",
+      "text": "Refactor Tooltip Implementations to Use TooltipComponent for Consistent and Simplified Management also Add TooltipComponent to FacilityHomepage"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#9918",
+      "time": "2025-03-05T03:30:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9918",
+      "text": "UI Issues in Data Fetch Scroll, Text Area Overflow, and User Profile Navigation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#10953",
+      "time": "2025-03-05T03:30:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10953",
+      "text": "Improved scrolling behaviour in notes while fetching next page",
+      "turnaround_time": 165160
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#11005",
+      "time": "2025-03-04T14:46:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11005",
+      "text": "Add missing translation for location history",
+      "collaborated_with": [
+        "nihal467",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T14:40:03.000Z",
+      "title": "ohcnetwork/care_fe#11005",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11005#pullrequestreview-2657842076",
+      "text": "Add missing translation for location history"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10996",
+      "time": "2025-03-04T12:37:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10996#issuecomment-2697429184",
+      "text": "![image](https://github.com/user-attachments/assets/d86874cb-a1b8-4f20-94e9-b12c22e35cb8)\r\n\r\nThere is too much white space to the right in larger screens, make the width dynamic\r\n\r\ncc: @nihal467 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T12:31:43.000Z",
+      "title": "ohcnetwork/care_fe#10928",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10928#pullrequestreview-2657272598",
+      "text": "Questionnaire preview redesign"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10823",
+      "time": "2025-03-04T12:27:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10823",
+      "text": "Show location association history of devices"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T12:27:06.000Z",
+      "title": "ohcnetwork/care_fe#10950",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10950#pullrequestreview-2657261256",
+      "text": "Add Support for Location Association History of Devices"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T12:17:54.000Z",
+      "title": "ohcnetwork/care_fe#10773",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10773#pullrequestreview-2657232412",
+      "text": "bugfix:Remove arrow icon from cancel button in Create Questionnaire"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10712",
+      "time": "2025-03-04T12:13:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10712#issuecomment-2697346387",
+      "text": "@Rishith25 fix the merge conflict"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10772",
+      "time": "2025-03-04T12:12:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10772",
+      "text": "Feat: Add search functionality for valueset by name and status"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T06:15:28.000Z",
+      "title": "ohcnetwork/care_fe#10841",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10841#pullrequestreview-2653143499",
+      "text": "Status Filters and Search for valueset list"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10528",
+      "time": "2025-03-04T12:10:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10528",
+      "text": "Inconsistency in containers during schedule creation for a doctor"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T12:10:28.000Z",
+      "title": "ohcnetwork/care_fe#10553",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10553#pullrequestreview-2657203624",
+      "text": "fix: Adjust containers flexibility and inconsistency"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10880",
+      "time": "2025-03-04T12:08:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10880",
+      "text": "Auto-fill Geo Details based on current organization page location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T12:07:57.000Z",
+      "title": "ohcnetwork/care_fe#10891",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10891#pullrequestreview-2657196469",
+      "text": "Fix: Auto-fill Geo Details on Create Facility Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10686",
+      "time": "2025-03-04T12:05:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10686",
+      "text": "Facility Users Page needs responsiveness"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T12:05:38.000Z",
+      "title": "ohcnetwork/care_fe#10714",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10714#pullrequestreview-2657188824",
+      "text": "Improve responsiveness of User Details page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T05:44:59.000Z",
+      "title": "ohcnetwork/care_fe#10929",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10929#pullrequestreview-2653108570",
+      "text": "feature: add delete feature in location-sidebar of encounter section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10866",
+      "time": "2025-03-04T11:58:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10866",
+      "text": "Disable Edit Valueset button initially"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T06:00:16.000Z",
+      "title": "ohcnetwork/care_fe#10815",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10815#pullrequestreview-2653128411",
+      "text": "Support For BULK beds creation in location"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10524",
+      "time": "2025-03-04T11:55:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10524",
+      "text": "Fix Button Overflow on Mobile View & Add List/Card Toggle Button in Organization Section"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T06:24:48.000Z",
+      "title": "ohcnetwork/care_fe#10546",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10546#pullrequestreview-2653161449",
+      "text": "Fix Button Overflow and Minor Responsive Issues on Mobile View"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T11:39:24.000Z",
+      "title": "ohcnetwork/care_fe#10899",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10899#pullrequestreview-2657117543",
+      "text": "Fix : Auto Comment Box Expansion"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T11:24:07.000Z",
+      "title": "ohcnetwork/care_fe#11002",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11002#pullrequestreview-2657067991",
+      "text": "Update `current_address` translation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T06:09:27.000Z",
+      "title": "ohcnetwork/care_fe#10904",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10904#pullrequestreview-2656068919",
+      "text": "Add support for associating devices to an encounter"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T04:47:33.000Z",
+      "title": "ohcnetwork/care_fe#10881",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10881#pullrequestreview-2655926394",
+      "text": "fix(pagination): auto-reset page on organization change"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10546",
+      "time": "2025-03-03T06:26:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10546#issuecomment-2693393823",
+      "text": "@modamaan clear the merge conflicts"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T06:21:54.000Z",
+      "title": "ohcnetwork/care_fe#10943",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10943#pullrequestreview-2653157720",
+      "text": "Fix : Notes Overflowing Out Of Screen Issue."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T06:21:18.000Z",
+      "title": "ohcnetwork/care_fe#10939",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10939#pullrequestreview-2653156999",
+      "text": "fix: Update sidebar navigation logic for admin dashboard"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10927",
+      "time": "2025-03-03T06:03:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10927#issuecomment-2693361365",
+      "text": "@AdityaJ2305 check the deploy failure"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#10953",
+      "time": "2025-03-03T05:37:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10953",
+      "text": "Improved scrolling behaviour in notes while fetching next page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9918",
+      "time": "2025-03-03T05:37:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9918#issuecomment-2693327244",
+      "text": "Issues 2 and 3 were already fixed and was working as expected, making a PR for issue 1, the scroll issue\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T05:15:20.000Z",
+      "title": "ohcnetwork/care_fe#10852",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10852#pullrequestreview-2653078380",
+      "text": "Update renovate.json to bump patch version for updates"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10952",
+      "time": "2025-03-03T05:13:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10952#issuecomment-2693296999",
+      "text": "Merging these minor changes directly to staging as they are needed for today's release\r\n\r\ncc: @nihal467 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T05:12:12.000Z",
+      "title": "ohcnetwork/care_fe#10952",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10952#pullrequestreview-2653074600",
+      "text": "Staging Patch Release"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T05:10:44.000Z",
+      "title": "ohcnetwork/care_fe#10951",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10951#pullrequestreview-2653073364",
+      "text": "Update ml translations"
+    },
     {
       "type": "pr_merged",
       "title": "ohcnetwork/care_fe#10913",
@@ -41613,6 +42003,116 @@
       "text": "Switched the abdm gateway endpoints to be consistent across sandbox and production"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11111",
+      "title": "Fixes the typographer quote replacement issue",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_abdm/pull/28",
+      "title": "Adds migration for patient reference in abha number model",
+      "stale_for": 1,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11071",
+      "title": "Added print feature for medication administrations",
+      "stale_for": 0,
+      "labels": [
+        "urgent",
+        "needs review",
+        "tested",
+        "P1"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_hcx/pull/11",
+      "title": "Care HCX V3.0 Refactor",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_abdm/pull/25",
+      "title": "ABDM EMR Refactor",
+      "stale_for": 38,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/arike/pull/143",
+      "title": "added browser confirmation for uncheduling in Agenda",
+      "stale_for": 47,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/arike/pull/141",
+      "title": "Added search bar in Patients",
+      "stale_for": 47,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/arike/pull/140",
+      "title": "Refactored Patients from ruby-html to rescript-react",
+      "stale_for": 47,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9093",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9036"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8941",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9036"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_abdm/issues/14",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8340"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_abdm/issues/13",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8340"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8553",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8420"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_abdm/issues/9",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8340"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_abdm/issues/8",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8340"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_abdm/issues/6",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8340"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_abdm/issues/5",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8340"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_abdm/issues/4",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8340"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_abdm/issues/2",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8340"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8413",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8420"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/docs/issues/37",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8420"
+    }
+  ]
 }

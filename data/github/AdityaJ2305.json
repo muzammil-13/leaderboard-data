@@ -1,6 +1,252 @@
 {
-  "last_updated": "2025-03-02T13:53:13.000Z",
+  "last_updated": "2025-03-07T06:06:24.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11099",
+      "time": "2025-03-07T06:06:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11099#issuecomment-2705608702",
+      "text": "Hey @nihal467 , I would like to work on this issue \nETA: EOD "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-06T20:24:13.000Z",
+      "title": "ohcnetwork/care_fe#11065",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11065#pullrequestreview-2665543543",
+      "text": "fix(ui): Prevent text overflow in popover content."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11066",
+      "time": "2025-03-06T20:17:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11066#issuecomment-2704850553",
+      "text": "@Spandan-Mishra , do \"Mark as Resolved\" with comment or acknowledgement after changes are done or unnecessary ones by coderabbitai"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-06T19:56:19.000Z",
+      "title": "ohcnetwork/care_fe#11088",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11088#pullrequestreview-2665483511",
+      "text": "Redesigned public page as per the figma design"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11087",
+      "time": "2025-03-06T19:42:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11087#issuecomment-2704784336",
+      "text": "Hey Team, Currently we are filtering out based on only `entered_in_error` , I think as per issue Should it also include status = inactive ? "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11087",
+      "time": "2025-03-06T19:28:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11087",
+      "text": "Update Empty State Messaging and Add toggle  to View in overview tables"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11086",
+      "time": "2025-03-06T17:48:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11086#issuecomment-2704544899",
+      "text": "I think instead of installing types, it worked with Cypress @14.1.0. I just checked, and we currently have 14.0.0.\n\ncc: @nihal467 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10927",
+      "time": "2025-03-06T12:31:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10927#issuecomment-2703716559",
+      "text": "Let's see if I got it right 😅 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10815",
+      "time": "2025-03-06T11:48:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10815#issuecomment-2703622726",
+      "text": "@Jacobjeevan, the changes are done. Regarding the accordion, I’ve specifically added the ShadCN accordion for this form. If users don’t want to customize the names, the form stays clean and uncluttered. I personally feel it’s a great way to keep things organized—users can expand it only if they need to customize, otherwise, they can move to the next input field."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11079",
+      "time": "2025-03-06T10:56:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11079#issuecomment-2703505378",
+      "text": "Hey @rithviknishad , I would like to work on this \nETA: 2 days "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10253",
+      "time": "2025-03-06T06:02:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10253#issuecomment-2702894248",
+      "text": "https://rebuildearth.slack.com/archives/C010GQBMFJ9/p1741204568060329"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10253",
+      "time": "2025-03-06T06:01:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10253#issuecomment-2702891999",
+      "text": "All are done can I take second as seperate issue since there is already been significant code changes @nihal467 \nBtw , you unassigned me 😅"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11064",
+      "time": "2025-03-05T19:48:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11064#issuecomment-2701913843",
+      "text": "Already fixed in https://github.com/ohcnetwork/care_fe/pull/10987\nas code refractor "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11068",
+      "time": "2025-03-05T19:01:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11068",
+      "text": "Cypress test for resources"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11025",
+      "time": "2025-03-05T18:50:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11025#issuecomment-2701796371",
+      "text": "@Prayag-09 , Please refrain from opening the PR if issue is not assigned to you "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11060",
+      "time": "2025-03-05T18:50:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11060#issuecomment-2701795688",
+      "text": "@Prayag-09 , Please refrain from opening the PR if issue is not assigned to you "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11013",
+      "time": "2025-03-05T12:53:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11013#issuecomment-2700849846",
+      "text": "@nihal467 , I just talked to Anagha, she said it needs iteration so might PR gets delay as per iteration status "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11051",
+      "time": "2025-03-05T12:52:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11051#issuecomment-2700846482",
+      "text": "https://slack.ohc.network/"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11051",
+      "time": "2025-03-05T12:50:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11051#issuecomment-2700843537",
+      "text": "Hey @VinayakTiwari1103 , Do use slack engineering channel for this type of queries 😄 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11011",
+      "time": "2025-03-05T10:03:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11011#issuecomment-2700438363",
+      "text": "@rithviknishad , I couldn't think of any another title 😅 Could you help with one although I have described the purpose in description \r\n\r\nCc: @Jacobjeevan "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10947",
+      "time": "2025-03-04T19:57:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10947#issuecomment-2698763222",
+      "text": "Hey Team, Is it really a issue ? 🤔 I couldn't reproduce it and checked the code for the same , couldn't find it \ncc: @Jacobjeevan  @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11017",
+      "time": "2025-03-04T19:20:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11017#issuecomment-2698680351",
+      "text": "@ARH-MNAJS , btw It is not being used 😅 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11013",
+      "time": "2025-03-04T19:01:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11013#issuecomment-2698617811",
+      "text": "Nihal, I would like to work on this \n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11011",
+      "time": "2025-03-04T18:31:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11011",
+      "text": "Directly used the disableCache prop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#10841",
+      "time": "2025-03-04T12:12:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10841",
+      "text": "Status Filters and Search for valueset list",
+      "turnaround_time": 448272
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10927",
+      "time": "2025-03-04T10:51:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10927#issuecomment-2697065035",
+      "text": "@nihal467 , ready for re-test"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10253",
+      "time": "2025-03-04T05:58:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10253#issuecomment-2696306427",
+      "text": "@nihal467  @rithviknishad @amjithtitus09 \n\n- [ ] In the questionnaire under \"Update Encounter,\" the content is getting clipped in normal review mode.  \n  > I couldn't understand the issue clearly. Could you share a screenshot? If it's the first one you shared in the issue, it is outdated issue then.  \n\n- [x] When the dosage field is completely removed in a medicine request, `0` gets auto-filled, and users are unable to erase it.  \n\n- [ ] When all symptoms, diagnoses, and allergies are removed, the message shows \"No recorded.\" Update it to \"No active available\" or provide an option to view removed items, even if none are currently active.  \n  > Please confirm the expected behavior, as this requires significant changes based on the final decision.  \n\n- [ ] Display the recorded time in questionnaires in a human-readable format.  \n  > This seems to be caused by broken data. A similar issue was previously assigned to me but was closed as \"Not Planned\": [Issue #10661](https://github.com/ohcnetwork/care_fe/issues/10661).  \n\n- [x] If the encounter class is changed to a non-hospitalization class, any existing hospitalization data should be cleared.  "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10987",
+      "time": "2025-03-03T18:35:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10987#issuecomment-2695237604",
+      "text": "@nihal467  \r\n\r\n- [ ] In the questionnaire under \"Update Encounter,\" the content is getting clipped in normal review mode.  \r\n  > I couldn't understand the issue clearly. Could you share a screenshot? If it's the first one you shared in the issue, it is outdated issue then.  \r\n\r\n- [x] When the dosage field is completely removed in a medicine request, `0` gets auto-filled, and users are unable to erase it.  \r\n\r\n- [ ] When all symptoms, diagnoses, and allergies are removed, the message shows \"No recorded.\" Update it to \"No active available\" or provide an option to view removed items, even if none are currently active.  \r\n  > Please confirm the expected behavior, as this requires significant changes based on the final decision.  \r\n\r\n- [ ] Display the recorded time in questionnaires in a human-readable format.  \r\n  > This seems to be caused by broken data. A similar issue was previously assigned to me but was closed as \"Not Planned\": [Issue #10661](https://github.com/ohcnetwork/care_fe/issues/10661).  \r\n\r\n- [x] If the encounter class is changed to a non-hospitalization class, any existing hospitalization data should be cleared.  "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#10987",
+      "time": "2025-03-03T18:31:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10987",
+      "text": "Fix: Minor UI Enhancement in questionnaire"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10253",
+      "time": "2025-03-03T06:57:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10253#issuecomment-2693447183",
+      "text": "@amjithtitus09, If Arh is not up , I would like to work on this "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10389",
+      "time": "2025-03-03T06:56:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10389#issuecomment-2693444658",
+      "text": "@nihal467 @Jacobjeevan , This issue is ready to get unblocked . Could you remove the blocked label so that I can push PR "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10927",
+      "time": "2025-03-03T06:08:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10927#issuecomment-2693368821",
+      "text": "@khavinshankar , It was after merging develop branch 🤔  , just pushed empty commit to re-run the test "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10954",
+      "time": "2025-03-03T06:02:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10954#issuecomment-2693359713",
+      "text": "@Abhishek2634  , Use `git checkout develop -- src/pages/Encounters/tabs/EncounterNotesTab.tsx `"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T05:58:27.000Z",
+      "title": "ohcnetwork/care_fe#10954",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10954#pullrequestreview-2653128322",
+      "text": "Cancel button navigation issue in edit questionaire."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/leaderboard#530",
+      "time": "2025-03-02T19:44:41.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/issues/530#issuecomment-2692875739",
+      "text": "Hey @rithviknishad @aravindm4 , I would like to work on this issue"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10936",
@@ -4851,140 +5097,6 @@
       "text": "Fix: Spo2 twice rendering and wrong thresholds "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10927",
-      "title": "Fix: Search is not working in facility departmental section",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10841",
-      "title": "Status Filters and Search for valueset list",
-      "stale_for": 2,
-      "labels": [
-        "changes required"
-      ]
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10815",
-      "title": "Support For BULK beds creation in location",
-      "stale_for": 1,
-      "labels": [
-        "question",
-        "changes required",
-        "needs-triage"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10857",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10858"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10855",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10856"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10834",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10839"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care/issues/2863",
-      "pr_link": "https://github.com/ohcnetwork/care/pull/2867"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10651",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10659"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10610",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10613"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10459",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10462"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10191",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10230"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10087",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10092"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10079",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10081"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10073",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10077"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10073",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10081"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10053",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10054"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10041",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10042"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9975",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9954"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9975",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9982"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9955",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9954"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9953",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9954"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9915",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9916"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9913",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9851"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9868",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9851"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9850",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9851"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9800",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9708"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9770",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9708"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/leaderboard/issues/569",
-      "pr_link": "https://github.com/ohcnetwork/leaderboard/pull/570"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/leaderboard/issues/563",
-      "pr_link": "https://github.com/ohcnetwork/leaderboard/pull/564"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9181",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9182"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

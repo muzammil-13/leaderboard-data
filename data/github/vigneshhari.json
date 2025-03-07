@@ -1,6 +1,119 @@
 {
-  "last_updated": "2025-03-01T11:56:08.000Z",
+  "last_updated": "2025-03-06T11:23:57.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#2839",
+      "time": "2025-03-06T11:23:57.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2839#issuecomment-2703567767",
+      "text": "Yes, we would need that as well."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-06T11:21:40.000Z",
+      "title": "ohcnetwork/care#2886",
+      "link": "https://github.com/ohcnetwork/care/pull/2886#pullrequestreview-2664143205",
+      "text": "fix: Handle KeyError in CodeConceptResource"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#2893",
+      "time": "2025-03-06T11:19:57.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/2893#issuecomment-2703558657",
+      "text": "Just delete this workflow, remnants of a painful era"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care#2858",
+      "time": "2025-03-05T11:26:55.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2858",
+      "text": "Add support for storing artifact meta objects such as excalidraw drawings"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-01T09:04:50.000Z",
+      "title": "ohcnetwork/care#2880",
+      "link": "https://github.com/ohcnetwork/care/pull/2880#pullrequestreview-2652356786",
+      "text": "Adds support for storing meta artifacts for patient and encounter"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#2886",
+      "time": "2025-03-05T11:18:20.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/2886#issuecomment-2700621981",
+      "text": "We need the API to return this error in this case, the value error was already being raised "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care#2881",
+      "time": "2025-03-04T16:59:29.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/2881",
+      "text": "Adding component field to questionnaire",
+      "collaborated_with": [
+        "DraKen0009",
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care#2890",
+      "time": "2025-03-04T10:05:08.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/2890",
+      "text": "Add more consent types",
+      "collaborated_with": [
+        "sainak",
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-04T10:04:44.000Z",
+      "title": "ohcnetwork/care#2890",
+      "link": "https://github.com/ohcnetwork/care/pull/2890#pullrequestreview-2656767646",
+      "text": "Add more consent types"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T15:30:20.000Z",
+      "title": "ohcnetwork/care#2884",
+      "link": "https://github.com/ohcnetwork/care/pull/2884#pullrequestreview-2654480652",
+      "text": "Adds Name and Status filter to med Req and Statement."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care_fe#10909",
+      "time": "2025-03-03T15:32:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10909",
+      "text": "Release a location association, once a encounter is marked complete"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T15:32:25.000Z",
+      "title": "ohcnetwork/care#2882",
+      "link": "https://github.com/ohcnetwork/care/pull/2882#pullrequestreview-2654486556",
+      "text": "fixed location encounter bug"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care#2817",
+      "time": "2025-03-03T15:30:57.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2817",
+      "text": "Search by name and statuses filter for Medication Request, Allergy etc"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T15:30:47.000Z",
+      "title": "ohcnetwork/care#2883",
+      "link": "https://github.com/ohcnetwork/care/pull/2883#pullrequestreview-2654482172",
+      "text": "Added name and status filters to condition and allergy intolerance"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-03T15:28:39.000Z",
+      "title": "ohcnetwork/care#2885",
+      "link": "https://github.com/ohcnetwork/care/pull/2885#pullrequestreview-2654476113",
+      "text": "fixed bug in consent create spec"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care#2844",
@@ -42,13 +155,6 @@
       "time": "2025-03-01T11:49:26.000Z",
       "link": "https://github.com/ohcnetwork/care/issues/2614#issuecomment-2692165924",
       "text": "This issue is already resolved through #2830 "
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-03-01T09:04:50.000Z",
-      "title": "ohcnetwork/care#2880",
-      "link": "https://github.com/ohcnetwork/care/pull/2880#pullrequestreview-2652356786",
-      "text": "Adds support for storing meta artifacts for patient and encounter"
     },
     {
       "type": "comment_created",

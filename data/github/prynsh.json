@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-03-02T03:48:08.000Z",
+  "last_updated": "2025-03-07T03:02:42.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10959",
+      "time": "2025-03-07T03:02:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10959#issuecomment-2705411185",
+      "text": "Yes, I have completed most of it. Will share it in some time."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10959",
+      "time": "2025-03-03T16:28:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10959#issuecomment-2694933367",
+      "text": "@nihal467  would the search feature in the department be similar to the facility search which used search via the API. As of now this is not what is happening in department search feature and the search feature is not working in the department section."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10959",
+      "time": "2025-03-03T08:54:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10959#issuecomment-2693667496",
+      "text": "@nihal467  i would like to work on this issue. Could you please assign this to me.\nThank you."
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10846",

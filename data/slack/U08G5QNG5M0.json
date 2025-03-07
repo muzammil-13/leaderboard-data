@@ -1,0 +1,112 @@
+{
+    "2025-03-04 00:00:00": [
+        {
+            "user": "U08G5QNG5M0",
+            "type": "message",
+            "ts": "1741121205.170339",
+            "edited": {
+                "user": "U08G5QNG5M0",
+                "ts": "1741121274.000000"
+            },
+            "client_msg_id": "20f134ff-bbf1-47d0-8fe3-5d3efd9c06c5",
+            "text": "4th march\n\u2022 working on the user profile avatar image upload ratios\n\u2022 Made a CEP 11 and will push that tommorow\nyep working good, but little less productive due to some big PRs",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "I+h9q",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "4th march\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "working on the user profile avatar image upload ratios"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a CEP 11 and will push that tommorow"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "yep working good, but little less productive due to some big PRs"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2025-03-06 00:00:00": [
+        {
+            "user": "U08G5QNG5M0",
+            "type": "message",
+            "ts": "1741296981.910319",
+            "client_msg_id": "b0c1ff1d-a789-4580-89f5-e1a7628a987a",
+            "text": "March 6 :\nDone :\n\u2022 Raised a PR for the avatar edit issue.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Iv6ws",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "March 6 :\nDone :\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised a PR for the avatar edit issue."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

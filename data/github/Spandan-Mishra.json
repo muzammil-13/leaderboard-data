@@ -1,0 +1,155 @@
+{
+  "last_updated": "2025-03-07T07:23:40.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11102",
+      "time": "2025-03-07T07:23:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11102#issuecomment-2705718516",
+      "text": "I would like to work on this issue @nihal467 \n\n**Estimated Time**: 2 Days\n\n**Approach:**\nI will be updating the solution by EOD"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11094",
+      "time": "2025-03-07T06:58:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11094#issuecomment-2705678651",
+      "text": "@Jacobjeevan have a look it this. fixed the issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11012",
+      "time": "2025-03-07T04:55:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11012#issuecomment-2705529352",
+      "text": "Issue resolved @Jacobjeevan @nihal467 "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11094",
+      "time": "2025-03-06T21:08:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11094",
+      "text": "Fixed name overflow in user card"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11066",
+      "time": "2025-03-06T20:28:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11066#issuecomment-2704870934",
+      "text": "Resolved all useful as well as unnecessary changes @AdityaJ2305 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11066",
+      "time": "2025-03-06T18:02:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11066#issuecomment-2704574220",
+      "text": "@nihal467 @Jacobjeevan \r\nImplemented the changes given by coderabbit. Except moving the tab contents to another component, as it was making the code more complex, and did not reduce code redundancy.\r\n\r\n@yash-learner \r\nMoved Sign Out under the menu, used CareIcon and removed unnecessary comments. "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11066",
+      "time": "2025-03-06T09:44:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11066#issuecomment-2703326417",
+      "text": "@nihal467 should I make the changes mentioned by coderabbit and make another commit?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11012",
+      "time": "2025-03-06T06:00:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11012#issuecomment-2702891088",
+      "text": "**Approach:**\nChanges must be made in the `OrganizationUsers.tsx` component\nThere can be two solutions to this:\n1. Breaking the name to the next line, i.e, wrapping the long words\n2. Truncate the long names with ellipsis (...)\n\nOne more approach could be to truncate the name with ellipsis normally, and show the full name with wrapping on hover.\n\n**End Date:** By end of tomorrow (07/03/25) or 1-2 Days after being assigned\n\n@Jacobjeevan I would like to work on this issue, please assign it to me"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11066",
+      "time": "2025-03-05T19:22:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11066#issuecomment-2701862534",
+      "text": "any other changes needed? @bodhish "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11066",
+      "time": "2025-03-05T18:40:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11066",
+      "text": "Redesigned the dashboard for the user organisation page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11016",
+      "time": "2025-03-04T19:18:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11016#issuecomment-2698677257",
+      "text": "@nihal467 I would like to work on this\nETA: 2-3 Days"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11015",
+      "time": "2025-03-04T19:13:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11015#issuecomment-2698662478",
+      "text": "@nihal467 I would like to work on this issue\nEstimated Time: 2 Days"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11012",
+      "time": "2025-03-04T18:45:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11012",
+      "text": "No Limit on user's name leads to overflow"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#66",
+      "time": "2025-03-04T14:47:10.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/66#issuecomment-2697899264",
+      "text": "ah my bad. I saw that there was no response from 4days, so I tried to solve the issue."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11003",
+      "time": "2025-03-04T11:39:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11003#issuecomment-2697242680",
+      "text": "@Jacobjeevan does it need to be fixed? If so, please assign this issue to me"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#11003",
+      "time": "2025-03-04T11:38:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11003",
+      "text": "BUG: Language Selection doesn't propagate language everywhere"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#65",
+      "time": "2025-03-04T10:45:30.000Z",
+      "link": "https://github.com/ohcnetwork/landing/issues/65#issuecomment-2697050909",
+      "text": "@AdityaP700 PR #66 fixes this issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/landing#66",
+      "time": "2025-03-04T10:24:10.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/66",
+      "text": "Fixed responsive issue between 640-767px"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11094",
+      "title": "Fixed name overflow in user card",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11066",
+      "title": "Redesigned the dashboard for the user organisation page",
+      "stale_for": 0,
+      "labels": [
+        "question",
+        "needs-triage"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/landing/pull/66",
+      "title": "Fixed responsive issue between 640-767px",
+      "stale_for": 2,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

@@ -1,6 +1,49 @@
 {
-  "last_updated": "2025-03-01T11:49:09.000Z",
+  "last_updated": "2025-03-06T20:18:50.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10388",
+      "time": "2025-03-06T20:18:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10388#issuecomment-2704853149",
+      "text": "@Rustix69 Sorry, but I have already been assigned this issue and have started working on it. I will raise a PR by tomorrow at the latest. Please check other open issues."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11086",
+      "time": "2025-03-06T17:54:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11086#issuecomment-2704558174",
+      "text": "@AdityaJ2305 yeah, got the same problem but solved by installing the latest version"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11079",
+      "time": "2025-03-06T11:44:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11079#issuecomment-2703613475",
+      "text": "@rithviknishad, I would like to work on this.\n\n## Implementation Steps\n\n- **Check Existing Breadcrumbs** – Review the breadcrumb logic in the Locations view and reuse the same pattern.  \n- **Fetch Organization Hierarchy** – Modify the query to fetch the organization's hierarchy.  \n- **Generate & Render Breadcrumbs** – Implement a function similar to `generateBreadcrumbs` for organizations and render it in the UI.  \n\n**ETA:** By tomorrow EOD.  \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11016",
+      "time": "2025-03-04T19:18:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11016#issuecomment-2698676545",
+      "text": "@nihal467 can you assign this to me.\n\nETA: 3-4 days"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#10891",
+      "time": "2025-03-04T12:08:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10891",
+      "text": "Fix: Auto-fill Geo Details on Create Facility Page",
+      "turnaround_time": 322579
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10388",
+      "time": "2025-03-03T06:56:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10388#issuecomment-2693444959",
+      "text": "@nihal467 can you assign this to me?"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10891",

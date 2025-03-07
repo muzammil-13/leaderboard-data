@@ -1,6 +1,63 @@
 {
-  "last_updated": "2025-03-02T08:21:06.000Z",
+  "last_updated": "2025-03-07T08:20:57.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11109",
+      "time": "2025-03-07T08:20:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11109#issuecomment-2705814756",
+      "text": "Hey @nihal467 I would like to work on this issue\nETA: EOD"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11108",
+      "time": "2025-03-07T08:15:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11108#issuecomment-2705804301",
+      "text": "@rithviknishad I would like to work on this if this is valid\nETA: 2 days"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11101",
+      "time": "2025-03-07T06:43:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11101#issuecomment-2705657683",
+      "text": "I would like to pick up this issue if it is valid"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#10981",
+      "time": "2025-03-06T10:59:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10981",
+      "text": "card ui fix: inconsistent ui in the card",
+      "turnaround_time": 241658
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#11060",
+      "time": "2025-03-05T18:12:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/11060#issuecomment-2701711519",
+      "text": "I would like to work on this issue\nETA: 6 March"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#10981",
+      "time": "2025-03-04T05:27:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10981#issuecomment-2696253858",
+      "text": "@rithviknishad I have removed absolute positioning please check once again. And it looks like this now\r\n![image](https://github.com/user-attachments/assets/d058a09b-e7c9-40f9-8253-e4dd307e6786)\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#10981",
+      "time": "2025-03-03T15:51:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/10981",
+      "text": "card ui fix: inconsistent ui in the card"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#10949",
+      "time": "2025-03-03T03:58:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/10949",
+      "text": "UI inconsistency in the card"
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10923",
@@ -17,5 +74,10 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10949",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10981"
+    }
+  ]
 }

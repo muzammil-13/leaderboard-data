@@ -1,6 +1,77 @@
 {
-  "last_updated": "2025-02-28T09:30:26.000Z",
+  "last_updated": "2025-03-05T17:09:00.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/10bedicu#56",
+      "time": "2025-03-05T17:09:00.000Z",
+      "link": "https://github.com/ohcnetwork/10bedicu/issues/56#issuecomment-2701562987",
+      "text": "@gurramkarthiknetha unassigning you due to inactivity"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/10bedicu#42",
+      "time": "2025-03-05T17:08:00.000Z",
+      "link": "https://github.com/ohcnetwork/10bedicu/issues/42#issuecomment-2701560708",
+      "text": "Closing as stale, feel free to open up if still relevant"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/10bedicu#42",
+      "time": "2025-03-05T17:07:59.000Z",
+      "link": "https://github.com/ohcnetwork/10bedicu/issues/42",
+      "text": "State map: improvements"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/10bedicu#32",
+      "time": "2025-03-05T17:04:56.000Z",
+      "link": "https://github.com/ohcnetwork/10bedicu/issues/32",
+      "text": "Calculate Bounds for State GeoJSON"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/10bedicu#32",
+      "time": "2025-03-05T17:04:56.000Z",
+      "link": "https://github.com/ohcnetwork/10bedicu/issues/32#issuecomment-2701553082",
+      "text": "Closing this as the issue is stale. Please feel free to open if still relevant"
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/10bedicu#10",
+      "time": "2025-03-05T17:03:59.000Z",
+      "link": "https://github.com/ohcnetwork/10bedicu/issues/10",
+      "text": "🔍 Separate Hospital Listing "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/10bedicu#10",
+      "time": "2025-03-05T17:03:59.000Z",
+      "link": "https://github.com/ohcnetwork/10bedicu/issues/10#issuecomment-2701550098",
+      "text": "Closing this issue due to inactivity. Please feel free to reopen again if still relevant"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11042",
+      "time": "2025-03-05T11:10:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11042",
+      "text": "Multiple Minor UI Fixes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#11037",
+      "time": "2025-03-05T09:35:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/11037",
+      "text": "Retain sidebar collapse state on reload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/landing#58",
+      "time": "2025-03-04T07:18:19.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/58",
+      "text": "Updates to the care page",
+      "turnaround_time": 1280741
+    },
     {
       "type": "issue_opened",
       "title": "ohcnetwork/landing#64",
